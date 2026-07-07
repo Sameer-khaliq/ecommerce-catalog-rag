@@ -1,0 +1,77 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- uv ----
+# uv.lock SHOULD be committed for reproducible builds — do not ignore it
+
+# ---- Environment / secrets ----
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ---- ChromaDB / vector store data ----
+data/chroma_db/
+data/vectorstore/
+*.sqlite3
+*.sqlite
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- Eval / results (keep folder, ignore generated runs if large) ----
+eval/results/*.json
+!eval/results/.gitkeep
+
+# ---- Testing / coverage ----
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+.tox/
+
+# ---- Ruff / linting cache ----
+.ruff_cache/
+
+# ---- Locust load test output ----
+load_test/reports/
+*.html
+
+# ---- Docker ----
+*.pid
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Jupyter (if used for experimentation) ----
+.ipynb_checkpoints/
+*.ipynb
+
+# ---- Misc ----
+.mypy_cache/
+node_modules/
+data/cache/
