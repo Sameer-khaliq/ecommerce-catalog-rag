@@ -1,0 +1,405 @@
+[
+  {
+    "product_id": "fash_ref_001",
+    "category": "Fashion",
+    "title": "Aviara Classic Slim Fit Chino Pants",
+    "description": "These slim fit chinos from Aviara blend comfort with a refined silhouette, perfect for office-to\u2011evening transitions. Crafted from a breathable cotton\u2011spandex blend, they hold their shape all day long. Available in versatile neutrals, they pair effortlessly with shirts and sneakers alike.",
+    "attributes": {
+      "brand": "Aviara",
+      "material": "Cotton\u2011spandex blend",
+      "size": "30,32,34,36",
+      "color": "Stone",
+      "fit_type": "Slim",
+      "gender": "Male",
+      "care_instructions": "Machine wash cold, tumble dry low",
+      "style": "Casual",
+      "pattern": "Solid",
+      "season": "Spring",
+      "occasion": "Work"
+    },
+    "seo_tags": [
+      "slim fit chinos",
+      "men's casual pants",
+      "cotton spandex chinos"
+    ],
+    "price": 69.99
+  },
+  {
+    "product_id": "fash_ref_002",
+    "category": "Fashion",
+    "title": "Lunaelle Floral Maxi Dress",
+    "description": "Lunaelle's floral maxi dress exudes bohemian elegance with its flowing silhouette and delicate print. The lightweight chiffon drapes gracefully, making it ideal for garden parties or summer weddings. A concealed side zipper ensures a smooth fit while the adjustable straps provide comfort.",
+    "attributes": {
+      "brand": "Lunaelle",
+      "material": "Chiffon",
+      "size": "XS,S,M,L,XL",
+      "color": "Coral Blossom",
+      "fit_type": "Relaxed",
+      "gender": "Female",
+      "care_instructions": "Hand wash cold, line dry",
+      "style": "Boho",
+      "pattern": "Floral",
+      "season": "Summer",
+      "occasion": "Wedding",
+      "sleeve_length": "Sleeveless",
+      "neckline": "V\u2011neck"
+    },
+    "seo_tags": [
+      "floral maxi dress",
+      "boho summer dress",
+      "women's evening wear"
+    ],
+    "price": 119.5
+  },
+  {
+    "product_id": "fash_ref_003",
+    "category": "Fashion",
+    "title": "Nordic Peak Waterproof Insulated Jacket",
+    "description": "Engineered for harsh winter conditions, the Nordic Peak jacket offers waterproof protection and premium down insulation. Its articulated sleeves and adjustable hood provide mobility and warmth during outdoor adventures. A sleek black finish makes it suitable for both city commutes and mountain hikes.",
+    "attributes": {
+      "brand": "Nordic Peak",
+      "material": "Polyester shell with 800-fill down",
+      "size": "S,M,L,XL,XXL",
+      "color": "Midnight Black",
+      "fit_type": "Regular",
+      "gender": "Unisex",
+      "care_instructions": "Dry clean only",
+      "style": "Outdoor",
+      "pattern": "Solid",
+      "season": "Winter",
+      "occasion": "Travel",
+      "sleeve_length": "Long",
+      "neckline": "High collar"
+    },
+    "seo_tags": [
+      "waterproof down jacket",
+      "men's winter coat",
+      "women's insulated jacket"
+    ],
+    "price": 249.0
+  },
+  {
+    "product_id": "fash_ref_004",
+    "category": "Fashion",
+    "title": "Elysian Silk Blend Evening Gown",
+    "description": "The Elysian evening gown features a luxurious silk\u2011blend fabric that catches the light with every movement. Its mermaid cut accentuates the waist and hips, while the subtle sequin detailing adds a touch of glamour. Perfect for red\u2011carpet events or upscale galas.",
+    "attributes": {
+      "brand": "Elysian",
+      "material": "Silk blend",
+      "size": "2,4,6,8,10",
+      "color": "Midnight Blue",
+      "fit_type": "Tailored",
+      "gender": "Female",
+      "care_instructions": "Dry clean only",
+      "style": "Formal",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Gala",
+      "sleeve_length": "Sleeveless",
+      "neckline": "Strapless"
+    },
+    "seo_tags": [
+      "silk evening gown",
+      "mermaid dress",
+      "luxury formal wear"
+    ],
+    "price": 489.99
+  },
+  {
+    "product_id": "fash_ref_005",
+    "category": "Fashion",
+    "title": "Rivet Urban Distressed Leather Biker Jacket",
+    "description": "Rivet's biker jacket showcases genuine distressed leather with asymmetrical zip and zippered pockets for a rugged look. The quilted lining offers extra warmth without compromising style. Ideal for night rides or edgy streetwear ensembles.",
+    "attributes": {
+      "brand": "Rivet",
+      "material": "Distressed leather",
+      "size": "S,M,L,XL",
+      "color": "Vintage Brown",
+      "fit_type": "Regular",
+      "gender": "Male",
+      "care_instructions": "Spot clean with leather cleaner",
+      "style": "Motorcycle",
+      "pattern": "Solid",
+      "season": "Fall",
+      "occasion": "Casual",
+      "sleeve_length": "Long",
+      "neckline": "Collar"
+    },
+    "seo_tags": [
+      "leather biker jacket",
+      "men's distressed jacket",
+      "urban motorcycle apparel"
+    ],
+    "price": 329.95
+  },
+  {
+    "product_id": "fash_ref_006",
+    "category": "Fashion",
+    "title": "Serenity Organic Cotton Crewneck Sweatshirt",
+    "description": "This cozy crewneck from Serenity is made from 100% organic cotton, offering a soft, breathable feel for everyday comfort. The relaxed fit and minimalistic logo make it a versatile layering piece for both lounging and casual outings. Eco\u2011friendly dyes ensure lasting color without harsh chemicals.",
+    "attributes": {
+      "brand": "Serenity",
+      "material": "Organic cotton",
+      "size": "XS,S,M,L,XL,XXL",
+      "color": "Heather Gray",
+      "fit_type": "Relaxed",
+      "gender": "Unisex",
+      "care_instructions": "Machine wash warm, tumble dry low",
+      "style": "Athleisure",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Loungewear",
+      "sleeve_length": "Long",
+      "neckline": "Crew"
+    },
+    "seo_tags": [
+      "organic cotton sweatshirt",
+      "unisex crewneck",
+      "sustainable fashion"
+    ],
+    "price": 44.99
+  },
+  {
+    "product_id": "fash_ref_007",
+    "category": "Fashion",
+    "title": "Mira Luxe Satin Slip Dress",
+    "description": "Mira Luxe presents a sleek satin slip dress that drapes elegantly over the body, delivering a sophisticated silhouette. The adjustable spaghetti straps and hidden side zipper provide a customizable fit. Its deep emerald hue makes it perfect for cocktail parties or date nights.",
+    "attributes": {
+      "brand": "Mira Luxe",
+      "material": "Satin",
+      "size": "2,4,6,8,10,12",
+      "color": "Emerald Green",
+      "fit_type": "Slim",
+      "gender": "Female",
+      "care_instructions": "Hand wash cold, line dry",
+      "style": "Cocktail",
+      "pattern": "Solid",
+      "season": "Spring",
+      "occasion": "Party",
+      "sleeve_length": "Sleeveless",
+      "neckline": "V\u2011neck"
+    },
+    "seo_tags": [
+      "satin slip dress",
+      "emerald cocktail dress",
+      "women's evening wear"
+    ],
+    "price": 149.0
+  },
+  {
+    "product_id": "fash_ref_008",
+    "category": "Fashion",
+    "title": "Harborline Classic Oxford Shirt",
+    "description": "Harborline's Oxford shirt offers timeless style with its crisp button\u2011down front and subtle chest pocket. Made from durable cotton twill, it maintains a polished look throughout the day. Available in classic white and soft blue, it pairs well with both jeans and dress pants.",
+    "attributes": {
+      "brand": "Harborline",
+      "material": "Cotton oxford",
+      "size": "14,15,16,17,18",
+      "color": "White",
+      "fit_type": "Regular",
+      "gender": "Male",
+      "care_instructions": "Machine wash warm, tumble dry medium",
+      "style": "Business Casual",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Work",
+      "sleeve_length": "Long",
+      "neckline": "Collared"
+    },
+    "seo_tags": [
+      "oxford shirt men",
+      "classic button down",
+      "formal casual shirt"
+    ],
+    "price": 59.5
+  },
+  {
+    "product_id": "fash_ref_009",
+    "category": "Fashion",
+    "title": "Celeste Knit Midi Skirt",
+    "description": "The Celeste midi skirt features a fine ribbed knit that offers stretch and comfort while maintaining a sleek profile. Its A\u2011line cut and high waist create a flattering silhouette for any body type. Choose from muted taupe or soft blush for versatile styling.",
+    "attributes": {
+      "brand": "Celeste",
+      "material": "Rib knit",
+      "size": "XS,S,M,L,XL",
+      "color": "Blush Pink",
+      "fit_type": "A\u2011line",
+      "gender": "Female",
+      "care_instructions": "Machine wash cold, lay flat to dry",
+      "style": "Casual",
+      "pattern": "Solid",
+      "season": "Fall",
+      "occasion": "Everyday",
+      "sleeve_length": "N/A",
+      "neckline": "N/A"
+    },
+    "seo_tags": [
+      "knit midi skirt",
+      "women's casual skirt",
+      "rib knit skirt"
+    ],
+    "price": 74.99
+  },
+  {
+    "product_id": "fash_ref_010",
+    "category": "Fashion",
+    "title": "TrekPro Performance Trail Running Shorts",
+    "description": "TrekPro's trail running shorts combine lightweight polyester with moisture\u2011wicking technology to keep you dry on rugged paths. The built\u2011in brief and zippered pockets provide security and convenience. Reflective accents enhance visibility during low\u2011light runs.",
+    "attributes": {
+      "brand": "TrekPro",
+      "material": "Polyester mesh",
+      "size": "XS,S,M,L,XL",
+      "color": "Neon Lime",
+      "fit_type": "Relaxed",
+      "gender": "Male",
+      "care_instructions": "Machine wash cold, tumble dry low",
+      "style": "Activewear",
+      "pattern": "Solid",
+      "season": "Summer",
+      "occasion": "Running",
+      "sleeve_length": "N/A",
+      "neckline": "N/A"
+    },
+    "seo_tags": [
+      "trail running shorts",
+      "men's performance shorts",
+      "outdoor activewear"
+    ],
+    "price": 39.95
+  },
+  {
+    "product_id": "fash_ref_011",
+    "category": "Fashion",
+    "title": "Vivid Threads Graphic Tee",
+    "description": "Vivid Threads offers a soft cotton tee featuring an eye\u2011catching abstract graphic on the front. The relaxed fit and tagless neckline ensure all\u2011day comfort. Ideal for street style looks or casual weekend wear.",
+    "attributes": {
+      "brand": "Vivid Threads",
+      "material": "Ring-spun cotton",
+      "size": "XS,S,M,L,XL,XXL",
+      "color": "Black",
+      "fit_type": "Relaxed",
+      "gender": "Unisex",
+      "care_instructions": "Machine wash cold, tumble dry low",
+      "style": "Streetwear",
+      "pattern": "Graphic",
+      "season": "All",
+      "occasion": "Casual",
+      "sleeve_length": "Short",
+      "neckline": "Crew"
+    },
+    "seo_tags": [
+      "graphic tee men",
+      "unisex streetwear shirt",
+      "abstract print t\u2011shirt"
+    ],
+    "price": 24.99
+  },
+  {
+    "product_id": "fash_ref_012",
+    "category": "Fashion",
+    "title": "Alpine Ridge Wool Blend Peacoat",
+    "description": "The Alpine Ridge peacoat combines a warm wool blend with a classic double\u2011breasted design for timeless winter style. Its structured silhouette and sleek navy color make it suitable for both business and casual settings. Functional side pockets and a removable faux\u2011fur collar add practicality and flair.",
+    "attributes": {
+      "brand": "Alpine Ridge",
+      "material": "Wool blend",
+      "size": "S,M,L,XL,XXL",
+      "color": "Navy",
+      "fit_type": "Tailored",
+      "gender": "Female",
+      "care_instructions": "Dry clean only",
+      "style": "Classic",
+      "pattern": "Solid",
+      "season": "Winter",
+      "occasion": "Work",
+      "sleeve_length": "Long",
+      "neckline": "Collar"
+    },
+    "seo_tags": [
+      "wool peacoat women",
+      "winter coat navy",
+      "tailored outerwear"
+    ],
+    "price": 215.0
+  },
+  {
+    "product_id": "fash_ref_013",
+    "category": "Fashion",
+    "title": "PulseFit Seamless Sports Bra",
+    "description": "PulseFit's seamless sports bra offers medium support with a smooth, chafe\u2011free construction ideal for yoga and low\u2011impact workouts. The breathable mesh panels provide ventilation, while the adjustable straps ensure a customized fit. Available in muted mauve and charcoal.",
+    "attributes": {
+      "brand": "PulseFit",
+      "material": "Nylon\u2011spandex blend",
+      "size": "XS,S,M,L,XL",
+      "color": "Mauve",
+      "fit_type": "Medium Support",
+      "gender": "Female",
+      "care_instructions": "Machine wash cold, lay flat",
+      "style": "Activewear",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Gym",
+      "sleeve_length": "N/A",
+      "neckline": "N/A"
+    },
+    "seo_tags": [
+      "seamless sports bra",
+      "women's yoga bra",
+      "medium support activewear"
+    ],
+    "price": 32.5
+  },
+  {
+    "product_id": "fash_ref_014",
+    "category": "Fashion",
+    "title": "Cobalt Denim High\u2011Rise Skinny Jeans",
+    "description": "These high\u2011rise skinny jeans from Cobalt Denim feature a stretch denim fabric that hugs the hips and thighs while allowing freedom of movement. The classic five\u2011pocket styling and subtle fading give them a modern, lived\u2011in look. Perfect for dressing up with heels or down with sneakers.",
+    "attributes": {
+      "brand": "Cobalt Denim",
+      "material": "Stretch denim",
+      "size": "24,26,28,30,32",
+      "color": "Indigo",
+      "fit_type": "Skinny",
+      "gender": "Female",
+      "care_instructions": "Machine wash cold, tumble dry low",
+      "style": "Casual",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Everyday",
+      "sleeve_length": "N/A",
+      "neckline": "N/A"
+    },
+    "seo_tags": [
+      "high rise skinny jeans",
+      "women's stretch denim",
+      "indigo jeans"
+    ],
+    "price": 89.99
+  },
+  {
+    "product_id": "fash_ref_015",
+    "category": "Fashion",
+    "title": "Eclipse Minimalist Leather Wallet",
+    "description": "Eclipse's minimalist wallet is crafted from full\u2011grain leather with a sleek, bifold design that holds cards, cash, and IDs efficiently. The RFID\u2011blocking lining protects against electronic theft. Its slim profile fits comfortably in any pocket.",
+    "attributes": {
+      "brand": "Eclipse",
+      "material": "Full\u2011grain leather",
+      "size": "One Size",
+      "color": "Charcoal",
+      "fit_type": "N/A",
+      "gender": "Unisex",
+      "care_instructions": "Wipe with a dry cloth, avoid water",
+      "style": "Accessories",
+      "pattern": "Solid",
+      "season": "All",
+      "occasion": "Everyday",
+      "sleeve_length": "N/A",
+      "neckline": "N/A"
+    },
+    "seo_tags": [
+      "minimalist leather wallet",
+      "RFID blocking wallet",
+      "unisex accessories"
+    ],
+    "price": 49.0
+  }
+]
