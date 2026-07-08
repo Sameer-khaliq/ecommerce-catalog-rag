@@ -1,0 +1,308 @@
+[
+  {
+    "product_id": "beauty_001",
+    "category": "Beauty",
+    "title": "Luminous Glow Vitamin C Serum",
+    "description": "A brightening serum infused with 15% pure vitamin C to even skin tone and reduce dullness. Lightweight formula absorbs quickly, leaving a radiant finish without stickiness.",
+    "attributes": {
+      "brand": "RadiantSkin",
+      "product_type": "Serum",
+      "skin_type": "All",
+      "ingredients": "Vitamin C (15%), Hyaluronic Acid, Ferulic Acid, Aloe Vera Extract",
+      "volume": "30ml",
+      "usage_instructions": "Apply 2-3 drops to clean skin morning and night before moisturizer.",
+      "cruelty_free": true,
+      "fragrance": "Light citrus",
+      "vegan": true,
+      "packaging_material": "Recyclable glass"
+    },
+    "seo_tags": [
+      "vitamin c serum",
+      "brightening",
+      "anti\u2011aging"
+    ],
+    "price": 29.99
+  },
+  {
+    "product_id": "beauty_002",
+    "category": "Beauty",
+    "title": "SilkTouch Hydrating Face Cream",
+    "description": "A rich, non\u2011greasy cream that delivers 24\u2011hour moisture with a blend of shea butter and ceramides. Ideal for dry to very dry skin, it restores barrier function and leaves skin feeling plush.",
+    "attributes": {
+      "brand": "SilkTouch",
+      "product_type": "Moisturizer",
+      "skin_type": "Dry",
+      "ingredients": "Shea Butter, Ceramide Complex, Glycerin, Jojoba Oil",
+      "volume": "50ml",
+      "usage_instructions": "Massage a pea\u2011size amount onto face and neck after cleansing, morning and night.",
+      "cruelty_free": false,
+      "color": "White",
+      "expiration_date": "2025-12-31",
+      "packaging_material": "Plastic jar"
+    },
+    "seo_tags": [
+      "hydrating cream",
+      "dry skin",
+      "ceramides"
+    ],
+    "price": 34.5
+  },
+  {
+    "product_id": "beauty_003",
+    "category": "Beauty",
+    "title": "PureLeaf Organic Facial Cleanser",
+    "description": "Gentle foaming cleanser made with organic green tea and chamomile to soothe sensitive skin while removing makeup and pollutants. Free from sulfates and parabens.",
+    "attributes": {
+      "brand": "PureLeaf",
+      "product_type": "Cleanser",
+      "skin_type": "Sensitive",
+      "ingredients": "Organic Green Tea Extract, Chamomile Flower Water, Coconut\u2011derived Surfactants",
+      "volume": "200ml",
+      "usage_instructions": "Dispense a small amount onto wet hands, massage onto face, rinse thoroughly.",
+      "cruelty_free": true,
+      "vegan": true,
+      "packaging_material": "Recyclable PET"
+    },
+    "seo_tags": [
+      "organic cleanser",
+      "sensitive skin",
+      "green tea"
+    ],
+    "price": 19.99
+  },
+  {
+    "product_id": "beauty_004",
+    "category": "Beauty",
+    "title": "Midnight Matte Liquid Lipstick",
+    "description": "Long\u2011wearing liquid lipstick with a velvety matte finish. The richly pigmented formula stays put for up to 12 hours without drying the lips.",
+    "attributes": {
+      "brand": "VelvetHue",
+      "product_type": "Lipstick",
+      "skin_type": "N/A",
+      "ingredients": "Silicone Resin, Vitamin E, Jojoba Oil, Pigments",
+      "volume": "4.5g",
+      "usage_instructions": "Apply directly from the bullet to clean, dry lips. Reapply if needed.",
+      "cruelty_free": true,
+      "color": "Midnight Plum",
+      "fragrance": "None",
+      "vegan": true,
+      "packaging_material": "Aluminum tube"
+    },
+    "seo_tags": [
+      "matte lipstick",
+      "long wear",
+      "vegan makeup"
+    ],
+    "price": 22.0
+  },
+  {
+    "product_id": "beauty_005",
+    "category": "Beauty",
+    "title": "SunGuard SPF 50+ Mineral Sunscreen Lotion",
+    "description": "Broad\u2011spectrum mineral sunscreen that provides SPF 50+ protection while delivering a non\u2011greasy, sheer finish. Formulated with zinc oxide and titanium dioxide, it is reef\u2011safe.",
+    "attributes": {
+      "brand": "EcoShield",
+      "product_type": "Sunscreen",
+      "skin_type": "All",
+      "ingredients": "Zinc Oxide (15%), Titanium Dioxide (5%), Aloe Vera, Vitamin E",
+      "volume": "100ml",
+      "usage_instructions": "Apply generous layer 15 minutes before sun exposure and reapply every 2 hours.",
+      "cruelty_free": true,
+      "vegan": true,
+      "packaging_material": "Recyclable squeeze tube"
+    },
+    "seo_tags": [
+      "mineral sunscreen",
+      "SPF 50",
+      "reef safe"
+    ],
+    "price": 27.5
+  },
+  {
+    "product_id": "beauty_006",
+    "category": "Beauty",
+    "title": "GlowRush Illuminating Primer",
+    "description": "A silky primer that blurs pores and adds a subtle radiance to the complexion, extending makeup wear. Contains mica and niacinamide for a smooth canvas.",
+    "attributes": {
+      "brand": "LuxeBase",
+      "product_type": "Primer",
+      "skin_type": "Combination",
+      "ingredients": "Mica, Niacinamide, Dimethicone, Vitamin B5",
+      "volume": "30ml",
+      "usage_instructions": "Smooth a thin layer over cleansed skin before foundation.",
+      "cruelty_free": false,
+      "fragrance": "Soft floral",
+      "packaging_material": "Plastic pump bottle"
+    },
+    "seo_tags": [
+      "illuminating primer",
+      "makeup base",
+      "pore blurring"
+    ],
+    "price": 24.99
+  },
+  {
+    "product_id": "beauty_007",
+    "category": "Beauty",
+    "title": "BotaniCalm Calming Face Mist",
+    "description": "Refreshing mist infused with cucumber, rose water, and oat extract to calm redness and hydrate throughout the day. Ideal for post\u2011workout or office refresh.",
+    "attributes": {
+      "brand": "BotaniCalm",
+      "product_type": "Facial Mist",
+      "skin_type": "Normal",
+      "ingredients": "Cucumber Extract, Rose Water, Oat Beta\u2011Glucan, Glycerin",
+      "volume": "150ml",
+      "usage_instructions": "Hold bottle 15\u202fcm from face and spritz 2\u20133 times. Do not rinse.",
+      "cruelty_free": true,
+      "vegan": true,
+      "packaging_material": "Glass spray bottle"
+    },
+    "seo_tags": [
+      "face mist",
+      "hydrating spray",
+      "calming"
+    ],
+    "price": 18.75
+  },
+  {
+    "product_id": "beauty_008",
+    "category": "Beauty",
+    "title": "NightRenew Retinol Night Cream",
+    "description": "A potent night cream featuring 0.5% retinol, peptides, and squalane to promote cell turnover and improve fine lines while you sleep. Suitable for experienced retinol users.",
+    "attributes": {
+      "brand": "Dermaluxe",
+      "product_type": "Night Cream",
+      "skin_type": "Mature",
+      "ingredients": "Retinol (0.5%), Peptide Complex, Squalane, Shea Butter",
+      "volume": "45ml",
+      "usage_instructions": "Apply a pea\u2011size amount to face after cleansing, avoiding eye area.",
+      "cruelty_free": false,
+      "expiration_date": "2024-09-30",
+      "packaging_material": "Airless pump"
+    },
+    "seo_tags": [
+      "retinol cream",
+      "anti aging",
+      "night moisturizer"
+    ],
+    "price": 49.0
+  },
+  {
+    "product_id": "beauty_009",
+    "category": "Beauty",
+    "title": "PureSilk Waterproof Mascara",
+    "description": "Intense black mascara that delivers volume and curl while resisting smudges and humidity for up to 24\u202fhours. Comes with a tapered brush for precise application.",
+    "attributes": {
+      "brand": "PureSilk",
+      "product_type": "Mascara",
+      "skin_type": "N/A",
+      "ingredients": "Water, Beeswax, Carnauba Wax, Pigments, Vitamin E",
+      "volume": "8ml",
+      "usage_instructions": "Apply from root to tip in a zig\u2011zag motion. Add second coat for extra volume.",
+      "cruelty_free": false,
+      "color": "Jet Black",
+      "packaging_material": "Plastic tube"
+    },
+    "seo_tags": [
+      "waterproof mascara",
+      "volumizing",
+      "long wear"
+    ],
+    "price": 21.5
+  },
+  {
+    "product_id": "beauty_010",
+    "category": "Beauty",
+    "title": "AquaPure Mineral Face Powder",
+    "description": "Translucent mineral powder that sets makeup, controls shine, and blurs imperfections. Formulated with finely milled mica and zinc oxide for a breathable finish.",
+    "attributes": {
+      "brand": "AquaPure",
+      "product_type": "Setting Powder",
+      "skin_type": "Oily",
+      "ingredients": "Mica, Zinc Oxide, Silica, Kaolin Clay",
+      "volume": "12g",
+      "usage_instructions": "Dust lightly over foundation using a fluffy brush.",
+      "cruelty_free": true,
+      "vegan": true,
+      "packaging_material": "Compact aluminum"
+    },
+    "seo_tags": [
+      "mineral powder",
+      "oil control",
+      "translucent"
+    ],
+    "price": 16.99
+  },
+  {
+    "product_id": "beauty_011",
+    "category": "Beauty",
+    "title": "GlowBloom Rosehip Oil Facial Elixir",
+    "description": "Cold\u2011pressed rosehip seed oil rich in omega\u20113 and vitamin A, perfect for brightening scars and improving elasticity. Absorbs quickly, leaving a subtle satin sheen.",
+    "attributes": {
+      "brand": "GlowBloom",
+      "product_type": "Facial Oil",
+      "skin_type": "All",
+      "ingredients": "Rosehip Seed Oil, Vitamin A, Vitamin C, Vitamin E",
+      "volume": "25ml",
+      "usage_instructions": "Massage 2\u20133 drops onto clean skin before moisturizer, morning and night.",
+      "cruelty_free": true,
+      "vegan": true,
+      "expiration_date": "2026-03-15",
+      "packaging_material": "Amber glass dropper bottle"
+    },
+    "seo_tags": [
+      "rosehip oil",
+      "facial elixir",
+      "scar treatment"
+    ],
+    "price": 28.0
+  },
+  {
+    "product_id": "beauty_012",
+    "category": "Beauty",
+    "title": "SilkEssence Ultra Hydrating Sheet Mask",
+    "description": "Individually packaged sheet mask soaked in a serum of hyaluronic acid, niacinamide, and green tea for an instant boost of moisture and radiance.",
+    "attributes": {
+      "brand": "SilkEssence",
+      "product_type": "Sheet Mask",
+      "skin_type": "Dehydrated",
+      "ingredients": "Hyaluronic Acid, Niacinamide, Green Tea Extract, Glycerin",
+      "volume": "1 sheet (10ml)",
+      "usage_instructions": "Apply to clean face, leave on 15\u201120 minutes, then pat remaining serum into skin.",
+      "cruelty_free": true,
+      "vegan": false,
+      "expiration_date": "2025-07-01",
+      "packaging_material": "Paper sheet + foil pouch"
+    },
+    "seo_tags": [
+      "sheet mask",
+      "hydrating",
+      "hyaluronic acid"
+    ],
+    "price": 3.5
+  },
+  {
+    "product_id": "beauty_013",
+    "category": "Beauty",
+    "title": "PureGlow Illuminating Highlighter",
+    "description": "Fine, buttery highlighter that catches light for a radiant, lit\u2011from\u2011within glow. Available in a universally flattering champagne shade.",
+    "attributes": {
+      "brand": "PureGlow",
+      "product_type": "Highlighter",
+      "skin_type": "N/A",
+      "ingredients": "Mica, Synthetic Pearl, Dimethicone, Vitamin E",
+      "volume": "6g",
+      "usage_instructions": "Sweep onto high points of the face with a fan brush and blend.",
+      "cruelty_free": true,
+      "color": "Champagne",
+      "vegan": true,
+      "packaging_material": "Plastic compact"
+    },
+    "seo_tags": [
+      "highlighter",
+      "champagne glow",
+      "vegan makeup"
+    ],
+    "price": 20.0
+  }
+]
