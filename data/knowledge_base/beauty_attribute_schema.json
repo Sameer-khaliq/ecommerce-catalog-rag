@@ -1,0 +1,19 @@
+{
+  "category": "Beauty",
+  "required_attributes": [
+    "brand",
+    "product_type",
+    "skin_type",
+    "ingredients",
+    "volume",
+    "usage_instructions",
+    "cruelty_free"
+  ],
+  "optional_attributes": [
+    "fragrance",
+    "color",
+    "expiration_date",
+    "vegan",
+    "packaging_material"
+  ]
+}
