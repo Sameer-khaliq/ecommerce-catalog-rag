@@ -1,0 +1,18 @@
+{
+  "category": "Home",
+  "required_attributes": [
+    "brand",
+    "material",
+    "dimensions",
+    "color",
+    "weight",
+    "warranty"
+  ],
+  "optional_attributes": [
+    "assembly_required",
+    "care_instructions",
+    "room_type",
+    "style",
+    "eco_friendly"
+  ]
+}
