@@ -1,0 +1,319 @@
+[
+  {
+    "product_id": "elec_ref_001",
+    "category": "Electronics",
+    "title": "Zenith X5 Bluetooth Over\u2011Ear Headphones",
+    "description": "The Zenith X5 delivers immersive sound with deep bass and crystal\u2011clear highs, perfect for long listening sessions. Its plush memory\u2011foam ear cups and lightweight aluminum frame ensure comfort, while up to 30 hours of battery life keeps the music going. Includes a travel case and NFC pairing for instant connectivity.",
+    "attributes": {
+      "brand": "Zenith Audio",
+      "model_number": "X5-2024",
+      "power_requirements": "DC 5V/2A (USB\u2011C)",
+      "connectivity": "Bluetooth 5.3, NFC, 3.5mm aux",
+      "warranty_period": "2 years",
+      "dimensions": "210 x 180 x 80 mm",
+      "weight": "260 g",
+      "color": "Midnight Black",
+      "battery_life": "30 hours",
+      "special_features": "Active Noise Cancellation, Quick Charge 5 min=1 hr",
+      "certifications": "CE, FCC, RoHS",
+      "accessories_included": [
+        "Carrying case",
+        "USB\u2011C charging cable"
+      ]
+    },
+    "seo_tags": [
+      "Bluetooth headphones",
+      "Noise cancelling",
+      "Wireless audio"
+    ],
+    "price": 129.99
+  },
+  {
+    "product_id": "elec_ref_002",
+    "category": "Electronics",
+    "title": "AstraTech Pro 15.6\" Ultra\u2011HD Laptop",
+    "description": "AstraTech's Pro 15.6\" laptop combines a sleek magnesium\u2011alloy chassis with a 4K UHD display and 12th\u2011gen Intel i7 processor for professional performance. It features a backlit keyboard, Thunderbolt 4 ports, and a fingerprint reader for security. Ideal for creators who need power on the go.",
+    "attributes": {
+      "brand": "AstraTech",
+      "model_number": "AT-P15UHD",
+      "power_requirements": "AC 100\u2011240V 65W charger",
+      "connectivity": "Wi\u2011Fi 6E, Bluetooth 5.2, 2x Thunderbolt 4, HDMI 2.1",
+      "warranty_period": "3 years",
+      "dimensions": "357 x 235 x 18 mm",
+      "weight": "1.65 kg",
+      "color": "Space Grey",
+      "special_features": "4K display, RTX 3050 GPU, Fingerprint sensor",
+      "certifications": "Energy Star, EPEAT Gold",
+      "accessories_included": [
+        "65W USB\u2011C charger",
+        "User manual"
+      ]
+    },
+    "seo_tags": [
+      "4K laptop",
+      "Professional notebook",
+      "Thunderbolt 4"
+    ],
+    "price": 1499.0
+  },
+  {
+    "product_id": "elec_ref_003",
+    "category": "Electronics",
+    "title": "PulseWave Mini Portable Projector",
+    "description": "The PulseWave Mini projects crisp 1080p images up to 120 inches, making it perfect for movie nights and presentations. Its built-in Harman Kardon speakers and battery lasting up to 4 hours eliminate the need for external gear. Compact enough to fit in a backpack, it supports HDMI, USB\u2011C, and wireless Miracast.",
+    "attributes": {
+      "brand": "PulseWave",
+      "model_number": "PW\u2011Mini1080",
+      "power_requirements": "DC 5V/3A (USB\u2011C)",
+      "connectivity": "HDMI, USB\u2011C, Wi\u2011Fi, Bluetooth",
+      "warranty_period": "1 year",
+      "dimensions": "110 x 85 x 30 mm",
+      "weight": "420 g",
+      "color": "Pearl White",
+      "battery_life": "4 hours",
+      "special_features": "1080p Full HD, Built\u2011in speakers, Miracast",
+      "certifications": "CE, FCC",
+      "accessories_included": [
+        "Remote control",
+        "Carrying pouch"
+      ]
+    },
+    "seo_tags": [
+      "Portable projector",
+      "1080p mini",
+      "Travel cinema"
+    ],
+    "price": 279.49
+  },
+  {
+    "product_id": "elec_ref_004",
+    "category": "Electronics",
+    "title": "Nimbus 5G Smartphone",
+    "description": "Nimbus 5G packs a Snapdragon 8 Gen 2 chipset, 8GB RAM, and a 6.7\" OLED display with 120Hz refresh for smooth performance. Its triple\u2011camera system captures detailed photos in low light, and the 5000\u202fmAh battery provides all\u2011day use with fast 65W charging. Available in three vibrant colors.",
+    "attributes": {
+      "brand": "Nimbus",
+      "model_number": "N5G\u20112024",
+      "power_requirements": "DC 5V/3A (USB\u2011C)",
+      "connectivity": "5G, Wi\u2011Fi 6E, Bluetooth 5.3, NFC",
+      "warranty_period": "2 years",
+      "dimensions": "162 x 75 x 8 mm",
+      "weight": "190 g",
+      "color": "Ocean Blue",
+      "battery_life": "24 hours mixed usage",
+      "special_features": "120Hz OLED, Triple\u2011camera, Fast charging 65W",
+      "certifications": "IP68, CE, FCC",
+      "accessories_included": [
+        "USB\u2011C fast charger",
+        "Clear case"
+      ]
+    },
+    "seo_tags": [
+      "5G phone",
+      "Snapdragon 8",
+      "OLED smartphone"
+    ],
+    "price": 899.0
+  },
+  {
+    "product_id": "elec_ref_005",
+    "category": "Electronics",
+    "title": "EcoCharge 20000\u202fmAh Power Bank",
+    "description": "The EcoCharge power bank delivers 20000\u202fmAh capacity with dual USB\u2011C Power Delivery ports and a 12V/2.5A output for laptops. Its solar panel adds emergency recharging capability, and the LED display shows remaining power. Built with a rugged, water\u2011resistant shell for outdoor adventures.",
+    "attributes": {
+      "brand": "EcoCharge",
+      "model_number": "EC\u201120K",
+      "power_requirements": "DC 5V/3A (input), Solar 10W",
+      "connectivity": "USB\u2011C PD, USB\u2011A, Solar input",
+      "warranty_period": "1 year",
+      "dimensions": "140 x 70 x 25 mm",
+      "weight": "340 g",
+      "color": "Forest Green",
+      "battery_life": "N/A",
+      "special_features": "Solar charging, LED power indicator, Water\u2011resistant (IPX5)",
+      "certifications": "CE, RoHS",
+      "accessories_included": [
+        "Travel pouch",
+        "USB\u2011C to USB\u2011C cable"
+      ]
+    },
+    "seo_tags": [
+      "High capacity power bank",
+      "Solar charger",
+      "Portable battery"
+    ],
+    "price": 59.99
+  },
+  {
+    "product_id": "elec_ref_006",
+    "category": "Electronics",
+    "title": "VividStream 55\" 4K Smart TV",
+    "description": "VividStream's 55\" 4K Smart TV offers HDR10+ support, a 120Hz refresh rate, and a full\u2011array local dimming panel for vibrant picture quality. The integrated voice assistant works with Alexa and Google Assistant, while the ultra\u2011thin bezel adds a cinematic feel. Includes multiple HDMI 2.1 ports for next\u2011gen gaming.",
+    "attributes": {
+      "brand": "VividStream",
+      "model_number": "VS\u201155UHD",
+      "power_requirements": "AC 100\u2011240V 150W",
+      "connectivity": "Wi\u2011Fi 6, Bluetooth 5.2, HDMI 2.1 x4, Ethernet",
+      "warranty_period": "3 years",
+      "dimensions": "1230 x 710 x 55 mm",
+      "weight": "13.5 kg",
+      "color": "Black",
+      "special_features": "HDR10+, 120Hz, Voice Assistant integration",
+      "certifications": "Energy Star, UL",
+      "accessories_included": [
+        "Remote control",
+        "Wall\u2011mount bracket"
+      ]
+    },
+    "seo_tags": [
+      "4K Smart TV",
+      "HDR TV",
+      "55 inch television"
+    ],
+    "price": 799.0
+  },
+  {
+    "product_id": "elec_ref_007",
+    "category": "Electronics",
+    "title": "AeroDrone X2 Quadcopter",
+    "description": "The AeroDrone X2 features a 4K 60fps camera with a 3\u2011axis gimbal for ultra\u2011smooth aerial footage. Its 30\u2011minute flight time, obstacle avoidance sensors, and return\u2011to\u2011home function make it beginner\u2011friendly yet capable. The compact folding design fits into a small backpack.",
+    "attributes": {
+      "brand": "AeroDrone",
+      "model_number": "X2\u20112024",
+      "power_requirements": "DC 11.1V 4A (Li\u2011Po battery)",
+      "connectivity": "Wi\u2011Fi, Bluetooth 5.0, GPS, OcuSync 3.0",
+      "warranty_period": "1 year",
+      "dimensions": "240 x 240 x 80 mm (folded)",
+      "weight": "820 g",
+      "color": "Matte Silver",
+      "special_features": "Obstacle avoidance, 30\u2011min flight, 4K 60fps camera",
+      "certifications": "CE, FCC",
+      "accessories_included": [
+        "Remote controller",
+        "Two spare batteries",
+        "Carrying case"
+      ]
+    },
+    "seo_tags": [
+      "Quadcopter drone",
+      "4K camera drone",
+      "AeroDrone"
+    ],
+    "price": 649.95
+  },
+  {
+    "product_id": "elec_ref_008",
+    "category": "Electronics",
+    "title": "SoundPulse Bluetooth Soundbar 3.1",
+    "description": "SoundPulse's 3.1 soundbar delivers rich, room\u2011filling audio with a wireless subwoofer and Dolby Atmos support. HDMI eARC, optical, and Bluetooth 5.2 connections provide versatile setup options. The sleek design complements any living\u2011room d\u00e9cor.",
+    "attributes": {
+      "brand": "SoundPulse",
+      "model_number": "SP\u20113.1B",
+      "power_requirements": "AC 100\u2011240V 30W",
+      "connectivity": "HDMI eARC, Optical, Bluetooth 5.2, AUX",
+      "warranty_period": "2 years",
+      "dimensions": "1150 x 100 x 100 mm",
+      "weight": "4.2 kg",
+      "color": "Charcoal Black",
+      "special_features": "Dolby Atmos, Wireless subwoofer, HDMI eARC",
+      "certifications": "CE, FCC",
+      "accessories_included": [
+        "Wireless subwoofer",
+        "Power cable",
+        "User manual"
+      ]
+    },
+    "seo_tags": [
+      "Soundbar 3.1",
+      "Dolby Atmos soundbar",
+      "Bluetooth audio"
+    ],
+    "price": 229.99
+  },
+  {
+    "product_id": "elec_ref_009",
+    "category": "Electronics",
+    "title": "PixelPro 24MP Mirrorless Camera",
+    "description": "PixelPro's 24MP mirrorless camera features a high\u2011resolution BSI sensor, 5\u2011axis in\u2011body stabilization, and 4K video recording. The fast hybrid autofocus system captures sharp subjects, while the lightweight magnesium body is weather\u2011sealed for durability. Comes with a 16\u201135mm kit lens.",
+    "attributes": {
+      "brand": "PixelPro",
+      "model_number": "PP\u2011M24",
+      "power_requirements": "DC 7.2V 2A (Rechargeable battery)",
+      "connectivity": "Wi\u2011Fi 6, Bluetooth 5.0, USB\u2011C",
+      "warranty_period": "2 years",
+      "dimensions": "115 x 68 x 42 mm",
+      "weight": "450 g",
+      "color": "Silver",
+      "special_features": "5\u2011axis IBIS, 4K video, Weather\u2011sealed body",
+      "certifications": "CE, FCC",
+      "accessories_included": [
+        "16\u201135mm f/2.8 lens",
+        "Battery pack",
+        "USB\u2011C charging cable",
+        "Strap"
+      ]
+    },
+    "seo_tags": [
+      "Mirrorless camera",
+      "24MP camera",
+      "PixelPro"
+    ],
+    "price": 1199.0
+  },
+  {
+    "product_id": "elec_ref_010",
+    "category": "Electronics",
+    "title": "GlideTech Wireless Gaming Mouse",
+    "description": "The GlideTech wireless gaming mouse offers a 16,000 DPI sensor, ultra\u2011low latency 2.4\u202fGHz connection, and customizable RGB lighting. Its ergonomic shape and 6 programmable buttons enhance precision for competitive play. Includes a rechargeable battery lasting up to 70 hours.",
+    "attributes": {
+      "brand": "GlideTech",
+      "model_number": "GT\u2011WGM01",
+      "power_requirements": "DC 5V/1A (USB\u2011C)",
+      "connectivity": "2.4\u202fGHz wireless, Bluetooth 5.1",
+      "warranty_period": "2 years",
+      "dimensions": "125 x 65 x 40 mm",
+      "weight": "95 g",
+      "color": "Black/Red",
+      "battery_life": "70 hours",
+      "special_features": "16000 DPI sensor, RGB lighting, Programmable buttons",
+      "certifications": "CE, FCC",
+      "accessories_included": [
+        "USB\u2011C receiver",
+        "Charging dock"
+      ]
+    },
+    "seo_tags": [
+      "Gaming mouse",
+      "Wireless mouse",
+      "High DPI"
+    ],
+    "price": 79.99
+  },
+  {
+    "product_id": "elec_ref_011",
+    "category": "Electronics",
+    "title": "Nimbus Smart Home Hub",
+    "description": "Nimbus Smart Home Hub centralizes control of lights, thermostats, and security devices via a touch screen interface and voice commands. Supports Zigbee, Z-Wave, Wi\u2011Fi, and Thread protocols for broad compatibility. Includes a built-in speaker for alerts and music playback.",
+    "attributes": {
+      "brand": "Nimbus",
+      "model_number": "NH\u2011Hub2024",
+      "power_requirements": "AC 100\u2011240V 12W",
+      "connectivity": "Wi\u2011Fi 6, Zigbee, Z\u2011Wave, Thread, Bluetooth 5.0",
+      "warranty_period": "2 years",
+      "dimensions": "200 x 200 x 80 mm",
+      "weight": "350 g",
+      "color": "White",
+      "special_features": "Voice assistant, Touchscreen, Multi\u2011protocol hub",
+      "certifications": "UL, FCC, CE",
+      "accessories_included": [
+        "Power adapter",
+        "Mounting kit"
+      ]
+    },
+    "seo_tags": [
+      "Smart home hub",
+      "Zigbee hub",
+      "Home automation"
+    ],
+    "price": 149.0
+  }
+]
