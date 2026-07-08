@@ -1,0 +1,20 @@
+{
+  "category": "Fashion",
+  "required_attributes": [
+    "brand",
+    "material",
+    "size",
+    "color",
+    "fit_type",
+    "gender",
+    "care_instructions"
+  ],
+  "optional_attributes": [
+    "style",
+    "pattern",
+    "season",
+    "occasion",
+    "sleeve_length",
+    "neckline"
+  ]
+}
