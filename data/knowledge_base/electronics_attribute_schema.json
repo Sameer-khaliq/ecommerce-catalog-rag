@@ -1,0 +1,19 @@
+{
+  "category": "Electronics",
+  "required_attributes": [
+    "brand",
+    "model_number",
+    "power_requirements",
+    "connectivity",
+    "warranty_period",
+    "dimensions",
+    "weight"
+  ],
+  "optional_attributes": [
+    "color",
+    "battery_life",
+    "special_features",
+    "certifications",
+    "accessories_included"
+  ]
+}
