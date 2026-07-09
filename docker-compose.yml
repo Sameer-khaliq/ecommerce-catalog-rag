@@ -1,0 +1,9 @@
+services:
+  ecommerce-rag:
+    build: .
+    ports:
+      - "7860:7860"
+    env_file:
+      - .env
+    volumes:
+      - ./data/processed/chroma_db:/app/data/processed/chroma_db
