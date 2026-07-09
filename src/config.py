@@ -18,7 +18,9 @@ class Settings(BaseSettings):
     # ---- Vector store ----
     chroma_db_path: str = "./data/chroma_db"
     chroma_collection_name: str = "ecommerce_catalog"
-
+    raw_data_dir:str = "./data/raw"
+    processed_data_dir:str = "./data/processed_data"
+    knowledge_base_dir:str = "./data/knowledge_base"
     # ---- Retrieval ----
     retrieval_top_k: int = 5
     hybrid_search_alpha: float = 0.5
@@ -50,3 +52,5 @@ class Settings(BaseSettings):
     )
 
 settings = Settings()
+def get_settings() -> Settings:
+    return settings
