@@ -1,0 +1,421 @@
+[
+  {
+    "product_id": "home_001",
+    "category": "Home",
+    "title": "LuxeMid Modern Sectional Sofa",
+    "description": "A spacious L-shaped sofa with plush cushions and a sleek low back, perfect for contemporary living rooms. Upholstered in soft, stain-resistant fabric, it offers both comfort and style for family gatherings.",
+    "attributes": {
+      "brand": "LuxeMid",
+      "material": "Polyester blend fabric",
+      "dimensions": "92 x 70 x 32 in",
+      "color": "Charcoal Gray",
+      "weight": 85,
+      "warranty": "5 years",
+      "assembly_required": true,
+      "room_type": "Living Room",
+      "style": "Modern"
+    },
+    "seo_tags": [
+      "sectional sofa",
+      "modern living room furniture",
+      "stain resistant sofa"
+    ],
+    "price": 1299.99
+  },
+  {
+    "product_id": "home_002",
+    "category": "Home",
+    "title": "Rustic Oak 5-Drawer Dresser",
+    "description": "Handcrafted from solid oak, this five-drawer dresser brings a warm, rustic charm to any bedroom. Each drawer glides smoothly on brass runners, providing ample storage for clothing and linens.",
+    "attributes": {
+      "brand": "HeritageWood",
+      "material": "Solid oak",
+      "dimensions": "48 x 18 x 30 in",
+      "color": "Natural Oak",
+      "weight": 70,
+      "warranty": "3 years",
+      "assembly_required": false,
+      "room_type": "Bedroom",
+      "style": "Rustic"
+    },
+    "seo_tags": [
+      "oak dresser",
+      "rustic bedroom furniture",
+      "solid wood dresser"
+    ],
+    "price": 749.0
+  },
+  {
+    "product_id": "home_003",
+    "category": "Home",
+    "title": "SolarGlow LED Floor Lamp",
+    "description": "This tall floor lamp features an adjustable arm and a dimmable LED bulb powered by an integrated solar panel. Ideal for eco-conscious homes, it provides bright, energy-efficient lighting without increasing electricity costs.",
+    "attributes": {
+      "brand": "SolarGlow",
+      "material": "Aluminum and frosted glass",
+      "dimensions": "65 x 12 x 12 in",
+      "color": "Matte White",
+      "weight": 12,
+      "warranty": "2 years",
+      "assembly_required": true,
+      "room_type": "Living Room",
+      "style": "Contemporary",
+      "eco_friendly": true
+    },
+    "seo_tags": [
+      "solar floor lamp",
+      "LED lighting",
+      "energy efficient lamp"
+    ],
+    "price": 149.99
+  },
+  {
+    "product_id": "home_004",
+    "category": "Home",
+    "title": "Serenity Plush Area Rug",
+    "description": "A 9'x12' hand-tufted rug made from ultra-soft polyester fibers, offering a cozy foundation for any living space. The subtle geometric pattern adds a touch of elegance while feeling gentle underfoot.",
+    "attributes": {
+      "brand": "Serenity Home",
+      "material": "Polyester",
+      "dimensions": "108 x 144 in",
+      "color": "Beige",
+      "weight": 25,
+      "warranty": "1 year",
+      "care_instructions": "Vacuum weekly; spot clean with mild detergent",
+      "room_type": "Living Room",
+      "style": "Transitional"
+    },
+    "seo_tags": [
+      "area rug",
+      "plush rug",
+      "geometric rug"
+    ],
+    "price": 219.95
+  },
+  {
+    "product_id": "home_005",
+    "category": "Home",
+    "title": "Nordic Pine Wall-Mounted Shelf",
+    "description": "A minimalist wall shelf crafted from sustainably sourced pine, perfect for displaying books, plants, or d\u00e9cor. Its floating design saves floor space while adding a clean, Nordic aesthetic.",
+    "attributes": {
+      "brand": "NordicCraft",
+      "material": "Sustainably sourced pine",
+      "dimensions": "36 x 6 x 8 in",
+      "color": "Light Pine",
+      "weight": 8,
+      "warranty": "2 years",
+      "assembly_required": true,
+      "room_type": "Any",
+      "style": "Scandinavian",
+      "eco_friendly": true
+    },
+    "seo_tags": [
+      "wall shelf",
+      "pine floating shelf",
+      "scandinavian d\u00e9cor"
+    ],
+    "price": 89.5
+  },
+  {
+    "product_id": "home_006",
+    "category": "Home",
+    "title": "CozyNest Memory Foam Mattress",
+    "description": "A 12-inch memory foam mattress that conforms to your body for personalized support and pressure relief. The breathable cover helps regulate temperature for a cooler night's sleep.",
+    "attributes": {
+      "brand": "CozyNest",
+      "material": "Memory foam",
+      "dimensions": "80 x 60 x 12 in",
+      "color": "White",
+      "weight": 45,
+      "warranty": "10 years",
+      "assembly_required": false,
+      "room_type": "Bedroom",
+      "style": "Modern"
+    },
+    "seo_tags": [
+      "memory foam mattress",
+      "cool sleep mattress",
+      "bedroom comfort"
+    ],
+    "price": 799.0
+  },
+  {
+    "product_id": "home_007",
+    "category": "Home",
+    "title": "Eclipse 42\" Smart Ceiling Fan",
+    "description": "A sleek ceiling fan with integrated smart controls, allowing you to adjust speed, direction, and lighting via a mobile app. Whisper-quiet blades and an energy-efficient motor keep rooms comfortable year-round.",
+    "attributes": {
+      "brand": "Eclipse",
+      "material": "Metal and ABS plastic",
+      "dimensions": "42 in diameter",
+      "color": "Espresso",
+      "weight": 20,
+      "warranty": "3 years",
+      "assembly_required": true,
+      "room_type": "Living Room",
+      "style": "Contemporary"
+    },
+    "seo_tags": [
+      "smart ceiling fan",
+      "energy efficient fan",
+      "app controlled fan"
+    ],
+    "price": 219.99
+  },
+  {
+    "product_id": "home_008",
+    "category": "Home",
+    "title": "Harbor Bay Ceramic Vase Set",
+    "description": "A set of three hand-painted ceramic vases in varying heights, ideal for fresh flowers or decorative branches. The coastal-inspired glaze adds a pop of color to any tabletop.",
+    "attributes": {
+      "brand": "Harbor Bay",
+      "material": "Ceramic",
+      "dimensions": "12 x 6 in, 18 x 8 in, 24 x 10 in",
+      "color": "Seafoam Green",
+      "weight": 6,
+      "warranty": "1 year",
+      "care_instructions": "Hand wash only",
+      "room_type": "Living Room",
+      "style": "Coastal"
+    },
+    "seo_tags": [
+      "ceramic vase set",
+      "hand painted vases",
+      "coastal d\u00e9cor"
+    ],
+    "price": 64.75
+  },
+  {
+    "product_id": "home_009",
+    "category": "Home",
+    "title": "EcoBamboo Kitchen Towels (6-pack)",
+    "description": "Ultra-absorbent towels made from 100% organic bamboo fibers, offering a soft feel and natural antibacterial properties. Perfect for drying dishes, hands, or countertops.",
+    "attributes": {
+      "brand": "EcoBamboo",
+      "material": "Organic bamboo",
+      "dimensions": "28 x 20 in",
+      "color": "Natural White",
+      "weight": 2.5,
+      "warranty": "6 months",
+      "care_instructions": "Machine wash cold, tumble dry low",
+      "room_type": "Kitchen",
+      "style": "Minimalist",
+      "eco_friendly": true
+    },
+    "seo_tags": [
+      "bamboo kitchen towels",
+      "organic towels",
+      "eco friendly kitchen"
+    ],
+    "price": 34.99
+  },
+  {
+    "product_id": "home_010",
+    "category": "Home",
+    "title": "ZenStone Natural Stone Shower Curtain",
+    "description": "A 72\" x 72\" shower curtain crafted from lightweight, non-porous natural stone composite that resists mold and mildew. Its neutral stone texture complements modern bathroom designs.",
+    "attributes": {
+      "brand": "ZenStone",
+      "material": "Stone composite",
+      "dimensions": "72 x 72 in",
+      "color": "Pebble Grey",
+      "weight": 4,
+      "warranty": "2 years",
+      "care_instructions": "Wipe with a damp cloth",
+      "room_type": "Bathroom",
+      "style": "Modern"
+    },
+    "seo_tags": [
+      "stone shower curtain",
+      "mold resistant bathroom",
+      "modern shower"
+    ],
+    "price": 89.0
+  },
+  {
+    "product_id": "home_011",
+    "category": "Home",
+    "title": "VelvetTouch Throw Blanket",
+    "description": "A luxurious 50\" x 60\" throw made from a blend of 80% cotton and 20% polyester velvet, providing warmth and a plush texture. Ideal for draping over sofas or adding a layer of comfort to beds.",
+    "attributes": {
+      "brand": "VelvetTouch",
+      "material": "Cotton-polyester blend",
+      "dimensions": "50 x 60 in",
+      "color": "Deep Navy",
+      "weight": 1.8,
+      "warranty": "1 year",
+      "care_instructions": "Machine wash gentle, tumble dry low",
+      "room_type": "Living Room",
+      "style": "Contemporary"
+    },
+    "seo_tags": [
+      "velvet throw blanket",
+      "luxury home textile",
+      "soft blanket"
+    ],
+    "price": 59.99
+  },
+  {
+    "product_id": "home_012",
+    "category": "Home",
+    "title": "Alpine Lodge Rustic Bookshelf",
+    "description": "A sturdy 5-shelf bookcase constructed from reclaimed pine, featuring a distressed finish that adds character to any study or living area. Its open design accommodates books, d\u00e9cor, and storage bins.",
+    "attributes": {
+      "brand": "Alpine Lodge",
+      "material": "Reclaimed pine",
+      "dimensions": "72 x 30 x 12 in",
+      "color": "Distressed Brown",
+      "weight": 55,
+      "warranty": "3 years",
+      "assembly_required": true,
+      "room_type": "Study",
+      "style": "Rustic",
+      "eco_friendly": true
+    },
+    "seo_tags": [
+      "reclaimed wood bookshelf",
+      "rustic bookcase",
+      "home office storage"
+    ],
+    "price": 299.0
+  },
+  {
+    "product_id": "home_013",
+    "category": "Home",
+    "title": "LumenGlow Dimmable Table Lamp",
+    "description": "A compact table lamp with a brushed brass base and a linen shade, offering adjustable brightness via a touch-sensitive dimmer. Perfect for bedside reading or creating ambient lighting.",
+    "attributes": {
+      "brand": "LumenGlow",
+      "material": "Brass and linen",
+      "dimensions": "14 x 14 x 22 in",
+      "color": "Brass",
+      "weight": 3.2,
+      "warranty": "2 years",
+      "assembly_required": false,
+      "room_type": "Bedroom",
+      "style": "Mid-Century Modern"
+    },
+    "seo_tags": [
+      "dimmable table lamp",
+      "brass bedside lamp",
+      "mid century lighting"
+    ],
+    "price": 74.99
+  },
+  {
+    "product_id": "home_014",
+    "category": "Home",
+    "title": "PureAir HEPA Air Purifier",
+    "description": "A compact air purifier equipped with a true HEPA filter that captures 99.97% of particles as small as 0.3 microns, improving indoor air quality for allergy sufferers. Includes a quiet fan and night mode.",
+    "attributes": {
+      "brand": "PureAir",
+      "material": "Plastic and metal",
+      "dimensions": "15 x 10 x 22 in",
+      "color": "White",
+      "weight": 9,
+      "warranty": "2 years",
+      "assembly_required": false,
+      "room_type": "Any",
+      "style": "Modern"
+    },
+    "seo_tags": [
+      "HEPA air purifier",
+      "allergy relief",
+      "indoor air quality"
+    ],
+    "price": 199.95
+  },
+  {
+    "product_id": "home_015",
+    "category": "Home",
+    "title": "Bamboo Bliss Eco-Friendly Cutting Board Set",
+    "description": "Three cutting boards (small, medium, large) made from sustainably harvested bamboo, featuring juice grooves and non-slip edges for safe food prep. Naturally antimicrobial and easy to clean.",
+    "attributes": {
+      "brand": "Bamboo Bliss",
+      "material": "Bamboo",
+      "dimensions": "12 x 8 in, 16 x 12 in, 20 x 14 in",
+      "color": "Natural Bamboo",
+      "weight": 4.5,
+      "warranty": "1 year",
+      "care_instructions": "Hand wash; oil monthly",
+      "room_type": "Kitchen",
+      "style": "Eco",
+      "eco_friendly": true
+    },
+    "seo_tags": [
+      "bamboo cutting board",
+      "eco kitchen tools",
+      "sustainable cooking"
+    ],
+    "price": 49.99
+  },
+  {
+    "product_id": "home_016",
+    "category": "Home",
+    "title": "SleekLine Glass Coffee Table",
+    "description": "A minimalist coffee table with a tempered glass top and a chrome-finished steel frame, offering a sleek look that complements any modern living area. The lower shelf provides extra storage for magazines.",
+    "attributes": {
+      "brand": "SleekLine",
+      "material": "Tempered glass and steel",
+      "dimensions": "48 x 24 x 18 in",
+      "color": "Clear glass with chrome",
+      "weight": 22,
+      "warranty": "2 years",
+      "assembly_required": true,
+      "room_type": "Living Room",
+      "style": "Modern"
+    },
+    "seo_tags": [
+      "glass coffee table",
+      "modern living room furniture",
+      "chrome coffee table"
+    ],
+    "price": 259.99
+  },
+  {
+    "product_id": "home_017",
+    "category": "Home",
+    "title": "Coastal Breeze Woven Wall Mirror",
+    "description": "A 36\" round wall mirror framed with hand-woven jute, adding texture and a breezy coastal vibe to entryways or bathrooms. The lightweight design makes hanging easy.",
+    "attributes": {
+      "brand": "Coastal Breeze",
+      "material": "Jute and glass",
+      "dimensions": "36 in diameter",
+      "color": "Natural Jute",
+      "weight": 5,
+      "warranty": "1 year",
+      "assembly_required": false,
+      "room_type": "Entryway",
+      "style": "Coastal"
+    },
+    "seo_tags": [
+      "woven wall mirror",
+      "coastal d\u00e9cor",
+      "jute framed mirror"
+    ],
+    "price": 119.0
+  },
+  {
+    "product_id": "home_018",
+    "category": "Home",
+    "title": "Harmony Adjustable Bed Frame",
+    "description": "An upholstered platform bed with built-in adjustable head and foot sections, controlled via a wireless remote. Features a sturdy steel frame and a plush, quilted headboard for added comfort.",
+    "attributes": {
+      "brand": "Harmony",
+      "material": "Steel and upholstered fabric",
+      "dimensions": "80 x 60 x 45 in",
+      "color": "Charcoal Gray",
+      "weight": 120,
+      "warranty": "5 years",
+      "assembly_required": true,
+      "room_type": "Bedroom",
+      "style": "Contemporary"
+    },
+    "seo_tags": [
+      "adjustable bed frame",
+      "platform bed",
+      "smart bedroom furniture"
+    ],
+    "price": 1199.0
+  }
+]
