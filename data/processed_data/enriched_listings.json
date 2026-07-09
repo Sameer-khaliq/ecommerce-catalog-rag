@@ -1,0 +1,1269 @@
+[
+  {
+    "product_id": "elec_sparse_001",
+    "category": "Electronics",
+    "title": "bluetooth earbuds",
+    "description": "These Bluetooth earbuds deliver wireless freedom and clear, balanced sound for everyday listening. Their ergonomic design fits securely and stays comfortable during workouts or long commutes, while the built\u2011in microphone lets you take calls hands\u2011free.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "wireless earbuds",
+      "Bluetooth earphones",
+      "ergonomic earbuds",
+      "hands-free calls",
+      "workout earbuds"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "model_number": "not present in raw listing; LLM could not infer",
+      "power_requirements": "not present in raw listing; LLM could not infer",
+      "connectivity": "not present in raw listing; LLM could not infer",
+      "warranty_period": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "elec_sparse_002",
+    "category": "Electronics",
+    "title": "wireless gaming mouse",
+    "description": "The wireless gaming mouse comes in a sleek black finish, offering smooth, responsive control for precise gameplay. Its cordless design lets you move freely without tangled wires, making it a reliable companion for any gaming setup.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown",
+      "color": "black",
+      "battery_life": "unknown",
+      "special_features": "unknown",
+      "certifications": "unknown",
+      "accessories_included": "unknown"
+    },
+    "seo_tags": [
+      "wireless gaming mouse",
+      "cordless gaming mouse",
+      "responsive gaming mouse",
+      "precision mouse for PC",
+      "sleek black gaming mouse"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information in raw listing or reference data.",
+      "model_number": "Model number not provided in raw listing.",
+      "power_requirements": "Power requirements not specified.",
+      "connectivity": "Connectivity details absent from raw listing.",
+      "warranty_period": "Warranty period not mentioned.",
+      "dimensions": "Dimensions are not given.",
+      "weight": "Weight not listed.",
+      "battery_life": "Battery life not indicated for this mouse.",
+      "special_features": "No special features described.",
+      "certifications": "No certifications provided.",
+      "accessories_included": "No accessories information available."
+    }
+  },
+  {
+    "product_id": "elec_sparse_003",
+    "category": "Electronics",
+    "title": "4K action camera",
+    "description": "Capture every adventure in crisp 4K resolution with this compact action camera. Its rugged design and easy mounting let you record steady footage in any environment, while the intuitive controls make setup quick and simple.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "4K action camera",
+      "rugged waterproof cam",
+      "compact adventure cam",
+      "easy-mount video recorder",
+      "high-res outdoor filming"
+    ],
+    "price": 79.99,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "model_number": "not present in raw listing; LLM could not infer",
+      "power_requirements": "not present in raw listing; LLM could not infer",
+      "connectivity": "not present in raw listing; LLM could not infer",
+      "warranty_period": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "elec_sparse_004",
+    "category": "Electronics",
+    "title": "smart watch",
+    "description": "This smart watch keeps you connected and on track throughout your day. It delivers a clear time display, notification alerts, and basic fitness tracking, all in a comfortable, wrist\u2011friendly design.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "smart watch",
+      "fitness tracker",
+      "notification alerts",
+      "wrist-friendly design",
+      "connected wearable"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or description.",
+      "model_number": "No model number mentioned in raw listing.",
+      "power_requirements": "Power specifications are absent from raw data.",
+      "connectivity": "Connectivity details are not given.",
+      "warranty_period": "Warranty information is missing.",
+      "dimensions": "No size dimensions are provided.",
+      "weight": "Weight is not specified."
+    }
+  },
+  {
+    "product_id": "elec_sparse_005",
+    "category": "Electronics",
+    "title": "portable solar charger 10000mAh",
+    "description": "The portable solar charger provides a 10,000\u202fmAh battery, delivering reliable power for smartphones, tablets, and other USB devices while you\u2019re outdoors. Its built\u2011in solar panels let you replenish the charge from sunlight, extending usage when wall outlets aren\u2019t available. Compact and lightweight, it\u2019s an ideal backup for travel, camping, or emergencies.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "10,000mAh portable solar charger",
+      "solar power bank",
+      "outdoor USB charger",
+      "travel solar battery pack",
+      "emergency solar charger"
+    ],
+    "price": 29.5,
+    "confidence_notes": {
+      "brand": "No brand information in raw or reference listings.",
+      "model_number": "No model number provided.",
+      "power_requirements": "Only output voltage/current (5V/2A) is given; insufficient to define power requirements.",
+      "connectivity": "No connectivity details supplied.",
+      "warranty_period": "Warranty information not mentioned.",
+      "dimensions": "Physical dimensions are not listed.",
+      "weight": "Weight not specified."
+    }
+  },
+  {
+    "product_id": "elec_sparse_006",
+    "category": "Electronics",
+    "title": "compact LED desk lamp",
+    "description": "The compact LED desk lamp delivers bright, energy\u2011efficient illumination for any workspace. Its sleek design fits easily on small desks while the adjustable head lets you direct light exactly where you need it, reducing eye strain during long tasks.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "compact LED desk lamp",
+      "energy efficient desk lighting",
+      "adjustable LED lamp",
+      "eye strain reduction lamp",
+      "small workspace lighting"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "model_number": "not present in raw listing; LLM could not infer",
+      "power_requirements": "not present in raw listing; LLM could not infer",
+      "connectivity": "not present in raw listing; LLM could not infer",
+      "warranty_period": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "elec_sparse_007",
+    "category": "Electronics",
+    "title": "HDMI splitter 1 in 2 out",
+    "description": "The HDMI splitter provides one HDMI input and two HDMI outputs, allowing you to duplicate video and audio signals to two displays simultaneously. Its simple plug\u2011and\u2011play design requires no additional power source, making it easy to set up and use in any home or office environment.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "HDMI",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "HDMI splitter 1 in 2 out",
+      "dual HDMI output",
+      "plug\u2011and\u2011play HDMI splitter",
+      "HDMI video duplicator",
+      "no\u2011power HDMI splitter"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "connectivity": "Inferred from product title \"HDMI splitter 1 in 2 out\" which specifies the type of connection.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "model_number": "not present in raw listing; LLM could not infer",
+      "power_requirements": "not present in raw listing; LLM could not infer",
+      "warranty_period": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "elec_sparse_008",
+    "category": "Electronics",
+    "title": "noise cancelling headphones",
+    "description": "These noise\u2011cancelling headphones actively reduce surrounding sounds, letting you focus on music, podcasts, or calls. Their comfortable design supports long listening sessions, making them a practical choice for travel, work, or home use.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown"
+    },
+    "seo_tags": [
+      "noise cancelling headphones",
+      "active noise reduction",
+      "travel headphones",
+      "wireless comfort",
+      "long listening sessions"
+    ],
+    "price": 119.0,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or description.",
+      "model_number": "Model number not mentioned in any source.",
+      "power_requirements": "Power requirements not specified.",
+      "connectivity": "Connectivity details absent.",
+      "warranty_period": "Warranty period not indicated.",
+      "dimensions": "Dimensions not given.",
+      "weight": "Weight not provided."
+    }
+  },
+  {
+    "product_id": "elec_sparse_009",
+    "category": "Electronics",
+    "title": "waterproof Bluetooth speaker",
+    "description": "This waterproof Bluetooth speaker in vibrant blue delivers clear, room\u2011filling sound wherever you go. Its wireless Bluetooth connection lets you stream music instantly from any compatible device, and the rugged design resists splashes and rain for reliable outdoor use.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown",
+      "color": "blue"
+    },
+    "seo_tags": [
+      "waterproof bluetooth speaker",
+      "outdoor portable speaker",
+      "vibrant blue speaker",
+      "wireless rugged speaker",
+      "room-filling sound"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references.",
+      "model_number": "No model number provided.",
+      "power_requirements": "No power requirements specified.",
+      "connectivity": "No connectivity details provided.",
+      "warranty_period": "Warranty period not mentioned.",
+      "dimensions": "Dimensions not listed.",
+      "weight": "Weight not listed."
+    }
+  },
+  {
+    "product_id": "elec_sparse_010",
+    "category": "Electronics",
+    "title": "black headphones",
+    "description": "These black headphones provide clear, balanced audio for everyday listening, and their ergonomic design ensures comfort during extended use. The sleek black finish adds a stylish touch to any setup.",
+    "attributes": {
+      "brand": "unknown",
+      "model_number": "unknown",
+      "power_requirements": "unknown",
+      "connectivity": "unknown",
+      "warranty_period": "unknown",
+      "dimensions": "unknown",
+      "weight": "unknown",
+      "color": "black"
+    },
+    "seo_tags": [
+      "black headphones",
+      "clear balanced audio headphones",
+      "ergonomic comfortable headphones",
+      "stylish black headphones",
+      "everyday listening headphones"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "color": "Inferred from product title indicating the headphones are black",
+      "brand": "not present in raw listing; LLM could not infer",
+      "model_number": "not present in raw listing; LLM could not infer",
+      "power_requirements": "not present in raw listing; LLM could not infer",
+      "connectivity": "not present in raw listing; LLM could not infer",
+      "warranty_period": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_001",
+    "category": "Fashion",
+    "title": "Vintage denim jacket",
+    "description": "This vintage denim jacket offers classic, timeless appeal, crafted from sturdy denim that ages beautifully. Its retro silhouette adds effortless edge to casual looks, making it a versatile piece for layered styling.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Denim",
+      "size": "unknown",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown",
+      "style": "Vintage"
+    },
+    "seo_tags": [
+      "vintage denim jacket",
+      "retro denim outerwear",
+      "timeless denim coat",
+      "classic jean jacket",
+      "layered street style"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "material": "Derived from product title indicating denim material",
+      "style": "Title includes \"Vintage\" indicating style",
+      "brand": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "color": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_002",
+    "category": "Fashion",
+    "title": "Floral summer dress",
+    "description": "This floral summer dress showcases a vibrant blue hue, bringing a fresh pop of color to warm-weather wardrobes. Its breezy design makes it an effortless choice for sunny outings and casual gatherings.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "size": "unknown",
+      "color": "blue",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "floral summer dress",
+      "blue summer dress",
+      "breezy floral dress",
+      "warm weather dress"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "material": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_003",
+    "category": "Fashion",
+    "title": "Leather biker boots",
+    "description": "These leather biker boots deliver a sleek, rebellious edge, crafted from genuine leather for lasting durability. The classic biker silhouette glides smoothly over the foot, offering a confident stride for any urban adventure.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Leather",
+      "size": "unknown",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown",
+      "style": "Biker"
+    },
+    "seo_tags": [
+      "genuine leather biker boots",
+      "sleek leather boots",
+      "urban rebel footwear",
+      "durable biker boots",
+      "fashionable leather boots"
+    ],
+    "price": 129.99,
+    "confidence_notes": {
+      "material": "Inferred from product title \"Leather biker boots\" indicating material is leather.",
+      "style": "Inferred from product title indicating a biker style.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "color": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_004",
+    "category": "Fashion",
+    "title": "Classic white tee size M",
+    "description": "This classic white tee in size M offers a timeless silhouette that works for everyday wear. Its clean design makes it easy to pair with jeans or a blazer for a relaxed yet polished look.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "size": "M",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "classic white t\u2011shirt",
+      "versatile everyday tee",
+      "size M white shirt",
+      "timeless casual top",
+      "easy\u2011pair white tee"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references for this product.",
+      "material": "Material not specified in raw listing.",
+      "color": "Color not mentioned.",
+      "fit_type": "Fit type not indicated.",
+      "gender": "Gender not indicated.",
+      "care_instructions": "Care instructions not provided."
+    }
+  },
+  {
+    "product_id": "fashion_sparse_005",
+    "category": "Fashion",
+    "title": "Silk scarf",
+    "description": "Crafted from pure silk, this scarf drapes with a fluid elegance that catches the light with every movement. Its lightweight texture makes it easy to layer over a blazer or tie to a bag for a polished, effortless look.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "silk",
+      "size": "unknown",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "pure silk scarf",
+      "lightweight silk accessory",
+      "elegant silk wrap",
+      "silk scarf layering",
+      "luxury silk fashion"
+    ],
+    "price": 45.0,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "color": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_006",
+    "category": "Fashion",
+    "title": "black shoes size 9",
+    "description": "These black shoes in a size\u202f9 present a classic silhouette that pairs effortlessly with both casual and dressy outfits. Their timeless black finish adds a polished touch, making them a versatile addition to any wardrobe.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "size": "9",
+      "color": "black",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "black leather shoes size 9",
+      "classic black shoes",
+      "versatile black footwear",
+      "polished black dress shoes",
+      "timeless black shoes"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "size": "Inferred from product title indicating 'size 9'",
+      "color": "Inferred from product title indicating 'black shoes'",
+      "brand": "not present in raw listing; LLM could not infer",
+      "material": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_007",
+    "category": "Fashion",
+    "title": "Wool beanie",
+    "description": "Crafted from soft, natural wool, this beanie offers cozy warmth while maintaining a lightweight feel. Its classic silhouette drapes comfortably over the head, making it a versatile accessory for casual or refined winter looks.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Wool",
+      "size": "unknown",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "natural wool beanie",
+      "cozy winter accessory",
+      "lightweight wool hat",
+      "classic winter beanie",
+      "versatile cold-weather headwear"
+    ],
+    "price": 19.99,
+    "confidence_notes": {
+      "brand": "Brand not provided in listing",
+      "size": "Size not specified",
+      "color": "Color not specified",
+      "fit_type": "Fit type not specified",
+      "gender": "Gender not specified",
+      "care_instructions": "Care instructions not provided"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_008",
+    "category": "Fashion",
+    "title": "Red knit sweater",
+    "description": "This red knit sweater in size\u202fL offers a classic silhouette that drapes smoothly over the shoulders, making it ideal for layering over shirts or tees.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "size": "L",
+      "color": "red",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "red knit sweater",
+      "classic red sweater",
+      "soft draping knitwear",
+      "layering sweater size L",
+      "women's knit top"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "material": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_009",
+    "category": "Fashion",
+    "title": "Gold hoop earrings",
+    "description": "These classic gold hoop earrings are crafted from solid gold, delivering a luminous shine that catches the light with every turn. Their timeless circular silhouette adds a refined touch to any ensemble, from casual daywear to evening elegance.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Gold",
+      "size": "unknown",
+      "color": "Gold",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown"
+    },
+    "seo_tags": [
+      "solid gold hoop earrings",
+      "timeless gold jewelry",
+      "luxury hoop earrings",
+      "everyday elegance earrings",
+      "gold statement accessories"
+    ],
+    "price": 22.5,
+    "confidence_notes": {
+      "material": "Inferred from product title indicating gold composition",
+      "color": "Inferred from product title indicating gold color",
+      "brand": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "fashion_sparse_010",
+    "category": "Fashion",
+    "title": "Casual joggers",
+    "description": "These casual joggers provide relaxed comfort for everyday wear, featuring a versatile silhouette that moves with you. Their laid\u2011back style makes them an easy choice for effortless, on\u2011the\u2011go outfits.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "size": "unknown",
+      "color": "unknown",
+      "fit_type": "unknown",
+      "gender": "unknown",
+      "care_instructions": "unknown",
+      "style": "Casual"
+    },
+    "seo_tags": [
+      "relaxed-fit joggers",
+      "versatile casual pants",
+      "everyday comfort trousers",
+      "on\u2011the\u2011go athleisure",
+      "soft stretch jogger"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "style": "Inferred from product title containing the word 'Casual'",
+      "brand": "not present in raw listing; LLM could not infer",
+      "material": "not present in raw listing; LLM could not infer",
+      "size": "not present in raw listing; LLM could not infer",
+      "color": "not present in raw listing; LLM could not infer",
+      "fit_type": "not present in raw listing; LLM could not infer",
+      "gender": "not present in raw listing; LLM could not infer",
+      "care_instructions": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_001",
+    "category": "Beauty",
+    "title": "Mystic Glow Lip Tint",
+    "description": "Mystic Glow Lip Tint is a lip tint designed to add color to the lips. Its formula delivers a sheer, buildable wash of hue. Perfect for anyone seeking a fresh, natural look.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Lip Tint",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown"
+    },
+    "seo_tags": [
+      "sheer lip tint",
+      "buildable color lip tint",
+      "natural finish lip tint",
+      "long-lasting hydrating lip tint"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "product_type": "Derived from product title 'Mystic Glow Lip Tint' indicating the type as Lip Tint.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "skin_type": "not present in raw listing; LLM could not infer",
+      "ingredients": "not present in raw listing; LLM could not infer",
+      "volume": "not present in raw listing; LLM could not infer",
+      "usage_instructions": "not present in raw listing; LLM could not infer",
+      "cruelty_free": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_002",
+    "category": "Beauty",
+    "title": "Velvet Touch Facial Cream",
+    "description": "Velvet Touch Facial Cream delivers a velvety, smooth feel that leaves skin comfortably moisturized. Its lightweight formula glides on effortlessly, making it a versatile addition to any beauty routine.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Facial Cream",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown"
+    },
+    "seo_tags": [
+      "velvet touch facial cream",
+      "lightweight hydrating moisturizer",
+      "silky smooth skin care",
+      "gender neutral facial cream"
+    ],
+    "price": 19.99,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or description.",
+      "product_type": "Inferred from product title \"Velvet Touch Facial Cream\" which explicitly states the type.",
+      "skin_type": "No skin type indicated in raw listing.",
+      "ingredients": "Ingredients list not supplied.",
+      "volume": "No volume information given.",
+      "usage_instructions": "Usage instructions are absent.",
+      "cruelty_free": "Cruelty\u2011free status not mentioned."
+    }
+  },
+  {
+    "product_id": "beauty_sparse_003",
+    "category": "Beauty",
+    "title": "Ocean Breeze Body Mist",
+    "description": "Experience a refreshing Ocean Breeze Body Mist that lightly envelops you in a crisp, airy scent, perfect for everyday wear. Its fine mist delivers a subtle, lingering fragrance without overwhelming, making it suitable for any occasion.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Body Mist",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown",
+      "fragrance": "Ocean Breeze"
+    },
+    "seo_tags": [
+      "ocean breeze body mist",
+      "lightweight fragrance mist",
+      "fresh airy scent",
+      "long-lasting subtle perfume"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references.",
+      "product_type": "Inferred from product title \"Ocean Breeze Body Mist\".",
+      "skin_type": "Skin type not mentioned in raw listing.",
+      "ingredients": "Ingredients list not supplied.",
+      "volume": "Volume not specified.",
+      "usage_instructions": "Usage instructions not included.",
+      "cruelty_free": "Cruelty\u2011free status not indicated.",
+      "fragrance": "Derived from raw attribute \"scent\": \"Ocean Breeze\"."
+    }
+  },
+  {
+    "product_id": "beauty_sparse_004",
+    "category": "Beauty",
+    "title": "beauty kit",
+    "description": "The beauty kit delivers a thoughtfully curated collection of essential products, offering a fresh and inclusive experience for anyone exploring their routine. Its versatile selection adapts to a variety of skin tones and preferences, ensuring a confident start to any beauty regimen.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "unknown",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown"
+    },
+    "seo_tags": [
+      "inclusive beauty kit",
+      "curated skincare set",
+      "versatile makeup essentials",
+      "all skin tones beauty",
+      "fresh routine starter"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "not present in raw listing; LLM could not infer",
+      "product_type": "not present in raw listing; LLM could not infer",
+      "skin_type": "not present in raw listing; LLM could not infer",
+      "ingredients": "not present in raw listing; LLM could not infer",
+      "volume": "not present in raw listing; LLM could not infer",
+      "usage_instructions": "not present in raw listing; LLM could not infer",
+      "cruelty_free": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_005",
+    "category": "Beauty",
+    "title": "Golden Glow Highlighter",
+    "description": "Golden Glow Highlighter delivers a luminous shimmer gold finish that catches the light for a radiant glow. Apply to the high points of the face for an effortless, lit\u2011up look.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "unknown",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown",
+      "color": "shimmer gold"
+    },
+    "seo_tags": [
+      "golden glow highlighter",
+      "luminous shimmer highlighter",
+      "radiant glow makeup",
+      "inclusive highlighter for all skin tones"
+    ],
+    "price": 12.5,
+    "confidence_notes": {
+      "brand": "Not provided in raw listing or reference listings.",
+      "product_type": "Not provided in raw listing or reference listings.",
+      "skin_type": "Not provided in raw listing or reference listings.",
+      "ingredients": "Not provided in raw listing or reference listings.",
+      "volume": "Not provided in raw listing or reference listings.",
+      "usage_instructions": "Not provided in raw listing or reference listings.",
+      "cruelty_free": "Not provided in raw listing or reference listings."
+    }
+  },
+  {
+    "product_id": "beauty_sparse_006",
+    "category": "Beauty",
+    "title": "Silk Soft Hair Oil",
+    "description": "This 100\u202fml hair oil is formulated with argan oil to help smooth and condition hair. Its lightweight texture delivers a silky\u2011smooth finish that leaves strands feeling nourished and manageable.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Hair Oil",
+      "skin_type": "unknown",
+      "ingredients": "Argan Oil",
+      "volume": "100ml",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown"
+    },
+    "seo_tags": [
+      "argan hair oil",
+      "silky smooth hair",
+      "lightweight hair oil",
+      "nourishing hair oil",
+      "smooth hair oil"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "product_type": "Inferred from the product title \"Silk Soft Hair Oil\" indicating it is a hair oil.",
+      "ingredients": "Derived from raw attribute \"type\": \"argan\", interpreted as argan oil.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "skin_type": "not present in raw listing; LLM could not infer",
+      "usage_instructions": "not present in raw listing; LLM could not infer",
+      "cruelty_free": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_007",
+    "category": "Beauty",
+    "title": "black nail polish",
+    "description": "This black nail polish delivers a deep, satin\u2011rich hue that glides on smoothly for an even, chip\u2011resistant finish. Its bold color adds instant edge to any look, making it a versatile choice for every style and occasion.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Nail Polish",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown",
+      "color": "black"
+    },
+    "seo_tags": [
+      "black nail polish",
+      "satin finish nail lacquer",
+      "chip resistant nail color",
+      "bold matte nail shade",
+      "unisex nail polish"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "product_type": "Inferred from title indicating the item is a nail polish.",
+      "color": "Inferred from title specifying \"black\" color.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "skin_type": "not present in raw listing; LLM could not infer",
+      "ingredients": "not present in raw listing; LLM could not infer",
+      "volume": "not present in raw listing; LLM could not infer",
+      "usage_instructions": "not present in raw listing; LLM could not infer",
+      "cruelty_free": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_008",
+    "category": "Beauty",
+    "title": "Rose Petal Bath Bomb",
+    "description": "Experience a soothing rose\u2011scented soak with this bath bomb, designed to release a fragrant bloom of rose petals as it fizzes away. Ideal for anyone seeking a relaxing, aromatic bath experience.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Bath Bomb",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown",
+      "fragrance": "Rose"
+    },
+    "seo_tags": [
+      "rose scented bath bomb",
+      "relaxing floral bath soak",
+      "aromatherapy bath bomb",
+      "skin soothing bath fizz"
+    ],
+    "price": 3.75,
+    "confidence_notes": {
+      "brand": "Title does not specify a brand.",
+      "skin_type": "No information provided about suitable skin type.",
+      "ingredients": "Ingredients not listed in the raw data.",
+      "volume": "No volume information available.",
+      "usage_instructions": "No usage instructions provided.",
+      "cruelty_free": "Cruelty\u2011free status not mentioned.",
+      "fragrance": "Title mentions 'Rose Petal', implying a rose fragrance."
+    }
+  },
+  {
+    "product_id": "beauty_sparse_009",
+    "category": "Beauty",
+    "title": "Fresh Mint Toothpaste",
+    "description": "Fresh Mint Toothpaste delivers a crisp, cooling sensation that leaves your mouth feeling clean and revitalized. Its refreshing mint flavor helps maintain fresh breath throughout the day, making it a reliable daily oral care choice for everyone.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "Toothpaste",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "unknown",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown"
+    },
+    "seo_tags": [
+      "mint toothpaste",
+      "cooling fresh breath",
+      "daily oral care",
+      "gender-neutral toothpaste",
+      "long-lasting mint freshness"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "product_type": "Inferred from product title 'Fresh Mint Toothpaste'",
+      "brand": "not present in raw listing; LLM could not infer",
+      "skin_type": "not present in raw listing; LLM could not infer",
+      "ingredients": "not present in raw listing; LLM could not infer",
+      "volume": "not present in raw listing; LLM could not infer",
+      "usage_instructions": "not present in raw listing; LLM could not infer",
+      "cruelty_free": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "beauty_sparse_010",
+    "category": "Beauty",
+    "title": "Luxe Lash Mascara",
+    "description": "This classic black mascara delivers a volumizing effect that adds bold, full lashes for a striking look. Its smooth, buildable formula lets anyone achieve lifted, defined lashes that stay in place all day.",
+    "attributes": {
+      "brand": "unknown",
+      "product_type": "unknown",
+      "skin_type": "unknown",
+      "ingredients": "unknown",
+      "volume": "volumizing",
+      "usage_instructions": "unknown",
+      "cruelty_free": "unknown",
+      "color": "black"
+    },
+    "seo_tags": [
+      "volumizing mascara",
+      "long-lasting lash mascara",
+      "buildable black mascara",
+      "full lashes mascara"
+    ],
+    "price": 9.99,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references.",
+      "product_type": "Product type not specified; title suggests mascara but not confirmed.",
+      "skin_type": "Skin type not mentioned in the listing.",
+      "ingredients": "Ingredients list not provided in the raw data.",
+      "usage_instructions": "No usage instructions were given.",
+      "cruelty_free": "Cruelty\u2011free status is not indicated in the available information."
+    }
+  },
+  {
+    "product_id": "home_sparse_001",
+    "category": "Home",
+    "title": "Cozy fleece throw blanket",
+    "description": "Wrap yourself in the comforting warmth of this cozy fleece throw blanket, perfect for adding a soft layer to your sofa or favorite reading chair. Its plush texture invites you to relax, making it an ideal companion for chilly evenings or casual lounging.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "cozy fleece throw blanket",
+      "soft sofa blanket",
+      "plush reading chair throw",
+      "warm lounge blanket",
+      "winter home decor"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in title or raw attributes.",
+      "material": "Material not specified; title only suggests fleece but not definitive.",
+      "dimensions": "Dimensions not provided in any source.",
+      "color": "Color not mentioned.",
+      "weight": "Weight not mentioned.",
+      "warranty": "Warranty information not provided."
+    }
+  },
+  {
+    "product_id": "home_sparse_002",
+    "category": "Home",
+    "title": "Modern glass vase",
+    "description": "Add a touch of elegance to any room with this modern clear glass vase, perfect for showcasing fresh flowers or decorative branches. Its sleek, transparent design complements both contemporary and classic d\u00e9cor, making it an inviting centerpiece for tables, shelves, or mantels.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "clear",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "clear glass vase",
+      "modern home d\u00e9cor",
+      "table centerpiece",
+      "flower vase"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information in raw listing or references",
+      "material": "Material not specified",
+      "dimensions": "Dimensions not provided",
+      "weight": "Weight not given",
+      "warranty": "Warranty details missing"
+    }
+  },
+  {
+    "product_id": "home_sparse_003",
+    "category": "Home",
+    "title": "LED bedside lamp",
+    "description": "Illuminate your nightstand with this LED bedside lamp, offering a gentle, adjustable glow that\u2019s perfect for reading or winding down. Its low\u2011energy LED source delivers consistent light while keeping electricity costs down, and the simple touch control lets you set the brightness to suit any mood.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "LED bedside lamp",
+      "adjustable nightstand lighting",
+      "energy-saving bedside lamp",
+      "touch control lamp",
+      "reading lamp for bedroom"
+    ],
+    "price": 29.99,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or reference listings for this specific product.",
+      "material": "Material not mentioned in raw listing; reference items describe different products.",
+      "dimensions": "Dimensions are not specified in the raw listing.",
+      "color": "Color is not indicated in the raw listing.",
+      "weight": "Weight is not provided in the raw listing.",
+      "warranty": "Warranty details are absent from the raw listing."
+    }
+  },
+  {
+    "product_id": "home_sparse_004",
+    "category": "Home",
+    "title": "black shoes size 9",
+    "description": "These black shoes bring a sleek, understated look to your home entryway, perfect for pairing with everyday outfits. Their simple design fits seamlessly into any casual or dressy setting.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "black",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "black entryway shoes",
+      "size 9 indoor footwear",
+      "sleek home shoes",
+      "casual dress shoes",
+      "understated black shoes"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in title or raw attributes.",
+      "material": "Material not mentioned in any source.",
+      "dimensions": "Dimensions not specified; size 9 refers to shoe size, not product dimensions.",
+      "weight": "Weight not provided.",
+      "warranty": "Warranty details absent."
+    }
+  },
+  {
+    "product_id": "home_sparse_005",
+    "category": "Home",
+    "title": "Bamboo cutting board",
+    "description": "Bring a natural touch to your kitchen with this bamboo cutting board, offering a sturdy surface for chopping, slicing, and serving. Its smooth, grain\u2011rich texture feels gentle on knives while providing reliable support for everyday meal prep.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "bamboo",
+      "dimensions": "unknown",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "bamboo cutting board",
+      "natural kitchen prep",
+      "knife-friendly board",
+      "eco-friendly chopping board",
+      "durable kitchen accessory"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references.",
+      "dimensions": "Dimensions not specified in raw listing.",
+      "color": "Color not mentioned in raw listing.",
+      "weight": "Weight not provided in raw listing.",
+      "warranty": "Warranty details absent from raw listing."
+    }
+  },
+  {
+    "product_id": "home_sparse_006",
+    "category": "Home",
+    "title": "Stainless steel kitchen faucet",
+    "description": "Upgrade your kitchen with this sleek stainless steel faucet, offering a clean, modern look that complements any countertop. Its durable stainless steel construction resists corrosion and adds a polished finish to your sink area.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Stainless steel",
+      "dimensions": "unknown",
+      "color": "Stainless steel",
+      "weight": "unknown",
+      "warranty": "unknown",
+      "room_type": "Kitchen"
+    },
+    "seo_tags": [
+      "stainless steel kitchen faucet",
+      "modern kitchen faucet",
+      "corrosion resistant faucet",
+      "sleek sink faucet"
+    ],
+    "price": 149.5,
+    "confidence_notes": {
+      "material": "Material stated explicitly in the product title.",
+      "color": "Color inferred from the material/finish mentioned in the title.",
+      "room_type": "Room type inferred from the product being a kitchen faucet.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "dimensions": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer",
+      "warranty": "not present in raw listing; LLM could not infer"
+    }
+  },
+  {
+    "product_id": "home_sparse_007",
+    "category": "Home",
+    "title": "Wall-mounted coat rack",
+    "description": "Add convenient storage to your entryway with this wall\u2011mounted coat rack, measuring 60\u202f\u00d7\u202f15\u202fcm for a compact yet functional footprint. Its simple design fits easily above a hallway console or near a front door, keeping coats and bags organized without taking up floor space.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "60x15cm",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "wall mounted coat rack",
+      "entryway storage solution",
+      "compact coat rack",
+      "hallway organizer"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information provided in raw listing or references.",
+      "material": "Material not specified in raw listing.",
+      "color": "Color not mentioned in raw listing.",
+      "weight": "Weight not provided in raw listing.",
+      "warranty": "Warranty details absent from raw listing."
+    }
+  },
+  {
+    "product_id": "home_sparse_008",
+    "category": "Home",
+    "title": "Decorative ceramic bowl",
+    "description": "This decorative ceramic bowl adds a subtle accent to any room, perfect for displaying fruit, candles, or decorative items. Its smooth finish and classic shape make it a versatile piece for tables, shelves, or entryways.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "decorative ceramic bowl",
+      "ceramic home decor",
+      "stylish tabletop accent",
+      "ceramic fruit bowl",
+      "modern decorative bowl"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "brand": "No brand information in title or raw attributes.",
+      "material": "Material not specified in listing.",
+      "dimensions": "Dimensions not provided.",
+      "color": "Color not mentioned.",
+      "weight": "Weight not indicated.",
+      "warranty": "Warranty details absent."
+    }
+  },
+  {
+    "product_id": "home_sparse_009",
+    "category": "Home",
+    "title": "Portable electric heater",
+    "description": "This portable electric heater delivers quick, reliable warmth wherever you need it, and its compact design lets you easily move it between rooms for flexible heating solutions.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "unknown",
+      "dimensions": "unknown",
+      "color": "unknown",
+      "weight": "unknown",
+      "warranty": "unknown"
+    },
+    "seo_tags": [
+      "portable electric heater",
+      "compact room heater",
+      "quick heating solution",
+      "energy\u2011efficient space heater"
+    ],
+    "price": 39.0,
+    "confidence_notes": {
+      "brand": "No brand information provided in the raw listing or description.",
+      "material": "No material details are mentioned for this heater.",
+      "dimensions": "Dimensions are not specified in the available data.",
+      "color": "Color is not indicated in the listing.",
+      "weight": "Weight is not given in the product information.",
+      "warranty": "Warranty terms are not listed for this item."
+    }
+  },
+  {
+    "product_id": "home_sparse_010",
+    "category": "Home",
+    "title": "Vintage wooden picture frame",
+    "description": "This vintage wooden picture frame in a rich walnut finish measures 8\u202f\u00d7\u202f10\u202fin, making it ideal for showcasing cherished photos on a mantel or gallery wall. Crafted from solid wood, it adds a warm, classic touch to any room without any assembly required.",
+    "attributes": {
+      "brand": "unknown",
+      "material": "Wood",
+      "dimensions": "8 x 10 in",
+      "color": "walnut",
+      "weight": "unknown",
+      "warranty": "unknown",
+      "assembly_required": false,
+      "style": "Vintage"
+    },
+    "seo_tags": [
+      "vintage-wooden-picture-frame",
+      "walnut-photo-frame-8x10",
+      "solid-wood-picture-frame",
+      "mantel-decor-frame",
+      "gallery-wall-frame"
+    ],
+    "price": null,
+    "confidence_notes": {
+      "material": "Inferred from title 'Vintage wooden picture frame' indicating the frame is made of wood.",
+      "dimensions": "Derived from raw attribute size '8x10in' formatted as dimensions.",
+      "assembly_required": "Picture frames are typically ready to use without assembly; inferred as false.",
+      "style": "Title includes 'Vintage', suggesting the style is vintage.",
+      "brand": "not present in raw listing; LLM could not infer",
+      "weight": "not present in raw listing; LLM could not infer",
+      "warranty": "not present in raw listing; LLM could not infer"
+    }
+  }
+]
