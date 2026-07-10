@@ -1,0 +1,22 @@
+[
+  {"query_id": "q01", "query": "wireless bluetooth earbuds", "category": "Electronics", "reference_answer": "Wireless Bluetooth earbuds offering a stable connection for music and calls, with a compact comfortable fit and built-in microphone."},
+  {"query_id": "q02", "query": "action camera for outdoor adventures", "category": "Electronics", "reference_answer": "A compact 4K action camera designed for mounting on helmets, bikes, or surfboards for hands-free recording during outdoor activities."},
+  {"query_id": "q03", "query": "smartwatch with activity tracking", "category": "Electronics", "reference_answer": "A smart watch with time display, activity tracking, and smartphone notifications for daily health monitoring."},
+  {"query_id": "q04", "query": "portable charger with solar power", "category": "Electronics", "reference_answer": "A 10,000mAh portable solar charger with stable DC 5V/2A output for charging phones and tablets outdoors."},
+  {"query_id": "q05", "query": "gaming mouse with responsive control", "category": "Electronics", "reference_answer": "A wireless gaming mouse with a sleek black finish offering responsive, precise control for gameplay."},
+  {"query_id": "q06", "query": "slim fit chino pants for men", "category": "Fashion", "reference_answer": "Slim fit chino pants made from a breathable cotton-spandex blend, suitable for office-to-evening wear."},
+  {"query_id": "q07", "query": "casual cotton material clothing", "category": "Fashion", "reference_answer": "Casual clothing made from breathable cotton blend materials designed for everyday comfort."},
+  {"query_id": "q08", "query": "work appropriate outfit neutral color", "category": "Fashion", "reference_answer": "A work-appropriate garment in a versatile neutral tone suitable for professional settings."},
+  {"query_id": "q09", "query": "machine washable easy care clothes", "category": "Fashion", "reference_answer": "Clothing designed for easy care, machine washable and tumble dry low for everyday convenience."},
+  {"query_id": "q10", "query": "spring season casual wear", "category": "Fashion", "reference_answer": "Casual seasonal clothing appropriate for spring, blending comfort with a refined look."},
+  {"query_id": "q11", "query": "mineral sunscreen reef safe", "category": "Beauty", "reference_answer": "A broad-spectrum mineral sunscreen with SPF 50+ protection, formulated with zinc oxide and titanium dioxide, reef-safe."},
+  {"query_id": "q12", "query": "cruelty free vegan skincare product", "category": "Beauty", "reference_answer": "A cruelty-free and vegan skincare product suitable for all skin types."},
+  {"query_id": "q13", "query": "lightweight serum for glowing skin", "category": "Beauty", "reference_answer": "A lightweight serum delivering a radiant, dewy finish suitable for all skin tones."},
+  {"query_id": "q14", "query": "sunscreen with zinc oxide", "category": "Beauty", "reference_answer": "A mineral sunscreen containing zinc oxide and titanium dioxide for broad-spectrum sun protection."},
+  {"query_id": "q15", "query": "non greasy sheer finish sunblock", "category": "Beauty", "reference_answer": "A non-greasy, sheer-finish sunscreen providing SPF 50+ protection without a heavy residue."},
+  {"query_id": "q16", "query": "modern L-shaped sectional sofa", "category": "Home", "reference_answer": "A spacious L-shaped sectional sofa with plush cushions and a sleek low back for contemporary living rooms."},
+  {"query_id": "q17", "query": "stain resistant living room furniture", "category": "Home", "reference_answer": "Living room furniture upholstered in soft, stain-resistant fabric suitable for family gatherings."},
+  {"query_id": "q18", "query": "furniture that requires assembly", "category": "Home", "reference_answer": "Home furniture that requires assembly upon delivery, offered with a multi-year warranty."},
+  {"query_id": "q19", "query": "charcoal gray upholstered sofa", "category": "Home", "reference_answer": "An upholstered sofa in charcoal gray offering comfort and modern style for the living room."},
+  {"query_id": "q20", "query": "affordable steel kitchen item under 50", "category": "Home", "reference_answer": "An affordable kitchen item, likely under $50, suited for everyday home use."}
+]
