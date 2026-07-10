@@ -1,0 +1,320 @@
+[
+  {
+    "product_id": "elec_sparse_001",
+    "category": "Electronics",
+    "title": "bluetooth earbuds",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_002",
+    "category": "Electronics",
+    "title": "wireless gaming mouse",
+    "raw_attributes": {
+      "color": "black"
+    },
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_003",
+    "category": "Electronics",
+    "title": "4K action camera",
+    "raw_attributes": {},
+    "price": 79.99
+  },
+  {
+    "product_id": "elec_sparse_004",
+    "category": "Electronics",
+    "title": "smart watch",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_005",
+    "category": "Electronics",
+    "title": "portable solar charger 10000mAh",
+    "raw_attributes": {
+      "output": "5V/2A"
+    },
+    "price": 29.5
+  },
+  {
+    "product_id": "elec_sparse_006",
+    "category": "Electronics",
+    "title": "compact LED desk lamp",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_007",
+    "category": "Electronics",
+    "title": "HDMI splitter 1 in 2 out",
+    "raw_attributes": {
+      "ports": "2"
+    },
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_008",
+    "category": "Electronics",
+    "title": "noise cancelling headphones",
+    "raw_attributes": {},
+    "price": 119.0
+  },
+  {
+    "product_id": "elec_sparse_009",
+    "category": "Electronics",
+    "title": "waterproof Bluetooth speaker",
+    "raw_attributes": {
+      "color": "blue"
+    },
+    "price": null
+  },
+  {
+    "product_id": "elec_sparse_010",
+    "category": "Electronics",
+    "title": "black headphones",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_001",
+    "category": "Fashion",
+    "title": "Vintage denim jacket",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_002",
+    "category": "Fashion",
+    "title": "Floral summer dress",
+    "raw_attributes": {
+      "color": "blue"
+    },
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_003",
+    "category": "Fashion",
+    "title": "Leather biker boots",
+    "raw_attributes": {},
+    "price": 129.99
+  },
+  {
+    "product_id": "fashion_sparse_004",
+    "category": "Fashion",
+    "title": "Classic white tee size M",
+    "raw_attributes": {
+      "size": "M"
+    },
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_005",
+    "category": "Fashion",
+    "title": "Silk scarf",
+    "raw_attributes": {
+      "material": "silk"
+    },
+    "price": 45.0
+  },
+  {
+    "product_id": "fashion_sparse_006",
+    "category": "Fashion",
+    "title": "black shoes size 9",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_007",
+    "category": "Fashion",
+    "title": "Wool beanie",
+    "raw_attributes": {},
+    "price": 19.99
+  },
+  {
+    "product_id": "fashion_sparse_008",
+    "category": "Fashion",
+    "title": "Red knit sweater",
+    "raw_attributes": {
+      "color": "red",
+      "size": "L"
+    },
+    "price": null
+  },
+  {
+    "product_id": "fashion_sparse_009",
+    "category": "Fashion",
+    "title": "Gold hoop earrings",
+    "raw_attributes": {},
+    "price": 22.5
+  },
+  {
+    "product_id": "fashion_sparse_010",
+    "category": "Fashion",
+    "title": "Casual joggers",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_001",
+    "category": "Beauty",
+    "title": "Mystic Glow Lip Tint",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_002",
+    "category": "Beauty",
+    "title": "Velvet Touch Facial Cream",
+    "raw_attributes": {},
+    "price": 19.99
+  },
+  {
+    "product_id": "beauty_sparse_003",
+    "category": "Beauty",
+    "title": "Ocean Breeze Body Mist",
+    "raw_attributes": {
+      "scent": "Ocean Breeze"
+    },
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_004",
+    "category": "Beauty",
+    "title": "beauty kit",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_005",
+    "category": "Beauty",
+    "title": "Golden Glow Highlighter",
+    "raw_attributes": {
+      "color": "shimmer gold"
+    },
+    "price": 12.5
+  },
+  {
+    "product_id": "beauty_sparse_006",
+    "category": "Beauty",
+    "title": "Silk Soft Hair Oil",
+    "raw_attributes": {
+      "type": "argan",
+      "size": "100ml"
+    },
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_007",
+    "category": "Beauty",
+    "title": "black nail polish",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_008",
+    "category": "Beauty",
+    "title": "Rose Petal Bath Bomb",
+    "raw_attributes": {},
+    "price": 3.75
+  },
+  {
+    "product_id": "beauty_sparse_009",
+    "category": "Beauty",
+    "title": "Fresh Mint Toothpaste",
+    "raw_attributes": {
+      "flavor": "mint"
+    },
+    "price": null
+  },
+  {
+    "product_id": "beauty_sparse_010",
+    "category": "Beauty",
+    "title": "Luxe Lash Mascara",
+    "raw_attributes": {
+      "color": "black",
+      "volume": "volumizing"
+    },
+    "price": 9.99
+  },
+  {
+    "product_id": "home_sparse_001",
+    "category": "Home",
+    "title": "Cozy fleece throw blanket",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_002",
+    "category": "Home",
+    "title": "Modern glass vase",
+    "raw_attributes": {
+      "color": "clear"
+    },
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_003",
+    "category": "Home",
+    "title": "LED bedside lamp",
+    "raw_attributes": {},
+    "price": 29.99
+  },
+  {
+    "product_id": "home_sparse_004",
+    "category": "Home",
+    "title": "black shoes size 9",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_005",
+    "category": "Home",
+    "title": "Bamboo cutting board",
+    "raw_attributes": {
+      "material": "bamboo"
+    },
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_006",
+    "category": "Home",
+    "title": "Stainless steel kitchen faucet",
+    "raw_attributes": {},
+    "price": 149.5
+  },
+  {
+    "product_id": "home_sparse_007",
+    "category": "Home",
+    "title": "Wall-mounted coat rack",
+    "raw_attributes": {
+      "dimensions": "60x15cm"
+    },
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_008",
+    "category": "Home",
+    "title": "Decorative ceramic bowl",
+    "raw_attributes": {},
+    "price": null
+  },
+  {
+    "product_id": "home_sparse_009",
+    "category": "Home",
+    "title": "Portable electric heater",
+    "raw_attributes": {},
+    "price": 39.0
+  },
+  {
+    "product_id": "home_sparse_010",
+    "category": "Home",
+    "title": "Vintage wooden picture frame",
+    "raw_attributes": {
+      "color": "walnut",
+      "size": "8x10in"
+    },
+    "price": null
+  }
+]
