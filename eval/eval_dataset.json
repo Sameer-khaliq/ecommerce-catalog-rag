@@ -1,22 +1,142 @@
 [
-  {"query_id": "q01", "query": "wireless bluetooth earbuds", "category": "Electronics", "reference_answer": "Wireless Bluetooth earbuds offering a stable connection for music and calls, with a compact comfortable fit and built-in microphone."},
-  {"query_id": "q02", "query": "action camera for outdoor adventures", "category": "Electronics", "reference_answer": "A compact 4K action camera designed for mounting on helmets, bikes, or surfboards for hands-free recording during outdoor activities."},
-  {"query_id": "q03", "query": "smartwatch with activity tracking", "category": "Electronics", "reference_answer": "A smart watch with time display, activity tracking, and smartphone notifications for daily health monitoring."},
-  {"query_id": "q04", "query": "portable charger with solar power", "category": "Electronics", "reference_answer": "A 10,000mAh portable solar charger with stable DC 5V/2A output for charging phones and tablets outdoors."},
-  {"query_id": "q05", "query": "gaming mouse with responsive control", "category": "Electronics", "reference_answer": "A wireless gaming mouse with a sleek black finish offering responsive, precise control for gameplay."},
-  {"query_id": "q06", "query": "slim fit chino pants for men", "category": "Fashion", "reference_answer": "Slim fit chino pants made from a breathable cotton-spandex blend, suitable for office-to-evening wear."},
-  {"query_id": "q07", "query": "casual cotton material clothing", "category": "Fashion", "reference_answer": "Casual clothing made from breathable cotton blend materials designed for everyday comfort."},
-  {"query_id": "q08", "query": "work appropriate outfit neutral color", "category": "Fashion", "reference_answer": "A work-appropriate garment in a versatile neutral tone suitable for professional settings."},
-  {"query_id": "q09", "query": "machine washable easy care clothes", "category": "Fashion", "reference_answer": "Clothing designed for easy care, machine washable and tumble dry low for everyday convenience."},
-  {"query_id": "q10", "query": "spring season casual wear", "category": "Fashion", "reference_answer": "Casual seasonal clothing appropriate for spring, blending comfort with a refined look."},
-  {"query_id": "q11", "query": "mineral sunscreen reef safe", "category": "Beauty", "reference_answer": "A broad-spectrum mineral sunscreen with SPF 50+ protection, formulated with zinc oxide and titanium dioxide, reef-safe."},
-  {"query_id": "q12", "query": "cruelty free vegan skincare product", "category": "Beauty", "reference_answer": "A cruelty-free and vegan skincare product suitable for all skin types."},
-  {"query_id": "q13", "query": "lightweight serum for glowing skin", "category": "Beauty", "reference_answer": "A lightweight serum delivering a radiant, dewy finish suitable for all skin tones."},
-  {"query_id": "q14", "query": "sunscreen with zinc oxide", "category": "Beauty", "reference_answer": "A mineral sunscreen containing zinc oxide and titanium dioxide for broad-spectrum sun protection."},
-  {"query_id": "q15", "query": "non greasy sheer finish sunblock", "category": "Beauty", "reference_answer": "A non-greasy, sheer-finish sunscreen providing SPF 50+ protection without a heavy residue."},
-  {"query_id": "q16", "query": "modern L-shaped sectional sofa", "category": "Home", "reference_answer": "A spacious L-shaped sectional sofa with plush cushions and a sleek low back for contemporary living rooms."},
-  {"query_id": "q17", "query": "stain resistant living room furniture", "category": "Home", "reference_answer": "Living room furniture upholstered in soft, stain-resistant fabric suitable for family gatherings."},
-  {"query_id": "q18", "query": "furniture that requires assembly", "category": "Home", "reference_answer": "Home furniture that requires assembly upon delivery, offered with a multi-year warranty."},
-  {"query_id": "q19", "query": "charcoal gray upholstered sofa", "category": "Home", "reference_answer": "An upholstered sofa in charcoal gray offering comfort and modern style for the living room."},
-  {"query_id": "q20", "query": "affordable steel kitchen item under 50", "category": "Home", "reference_answer": "An affordable kitchen item, likely under $50, suited for everyday home use."}
+  {
+    "query_id": "q01",
+    "query": "wireless gaming mouse",
+    "category": "Electronics",
+    "expected_product_id": "elec_sparse_002",
+    "reference_answer": "The wireless gaming mouse comes in a sleek black finish, offering smooth, responsive control for precise gameplay. Its cordless design lets you move freely without tangled wires, making it a reliable companion for any gaming setup."
+  },
+  {
+    "query_id": "q02",
+    "query": "wireless earbuds",
+    "category": "Electronics",
+    "expected_product_id": "elec_sparse_001",
+    "reference_answer": "These Bluetooth earbuds deliver wireless freedom and clear, balanced sound for everyday listening. Their ergonomic design fits securely and stays comfortable during workouts or long commutes, while the built\u2011in microphone lets you take calls hands\u2011free."
+  },
+  {
+    "query_id": "q03",
+    "query": "10,000mAh portable solar charger",
+    "category": "Electronics",
+    "expected_product_id": "elec_sparse_005",
+    "reference_answer": "The portable solar charger provides a 10,000\u202fmAh battery, delivering reliable power for smartphones, tablets, and other USB devices while you\u2019re outdoors. Its built\u2011in solar panels let you replenish the charge from sunlight, extending usage when wall outlets aren\u2019t available. Compact and lightweight, it\u2019s an ideal backup for travel, camping, or emergencies."
+  },
+  {
+    "query_id": "q04",
+    "query": "black headphones",
+    "category": "Electronics",
+    "expected_product_id": "elec_sparse_010",
+    "reference_answer": "These black headphones provide clear, balanced audio for everyday listening, and their ergonomic design ensures comfort during extended use. The sleek black finish adds a stylish touch to any setup."
+  },
+  {
+    "query_id": "q05",
+    "query": "HDMI splitter 1 in 2 out",
+    "category": "Electronics",
+    "expected_product_id": "elec_sparse_007",
+    "reference_answer": "The HDMI splitter provides one HDMI input and two HDMI outputs, allowing you to duplicate video and audio signals to two displays simultaneously. Its simple plug\u2011and\u2011play design requires no additional power source, making it easy to set up and use in any home or office environment."
+  },
+  {
+    "query_id": "q06",
+    "query": "genuine leather biker boots",
+    "category": "Fashion",
+    "expected_product_id": "fashion_sparse_003",
+    "reference_answer": "These leather biker boots deliver a sleek, rebellious edge, crafted from genuine leather for lasting durability. The classic biker silhouette glides smoothly over the foot, offering a confident stride for any urban adventure."
+  },
+  {
+    "query_id": "q07",
+    "query": "floral summer dress",
+    "category": "Fashion",
+    "expected_product_id": "fashion_sparse_002",
+    "reference_answer": "This floral summer dress showcases a vibrant blue hue, bringing a fresh pop of color to warm-weather wardrobes. Its breezy design makes it an effortless choice for sunny outings and casual gatherings."
+  },
+  {
+    "query_id": "q08",
+    "query": "solid gold hoop earrings",
+    "category": "Fashion",
+    "expected_product_id": "fashion_sparse_009",
+    "reference_answer": "These classic gold hoop earrings are crafted from solid gold, delivering a luminous shine that catches the light with every turn. Their timeless circular silhouette adds a refined touch to any ensemble, from casual daywear to evening elegance."
+  },
+  {
+    "query_id": "q09",
+    "query": "pure silk scarf",
+    "category": "Fashion",
+    "expected_product_id": "fashion_sparse_005",
+    "reference_answer": "Crafted from pure silk, this scarf drapes with a fluid elegance that catches the light with every movement. Its lightweight texture makes it easy to layer over a blazer or tie to a bag for a polished, effortless look."
+  },
+  {
+    "query_id": "q10",
+    "query": "classic white t\u2011shirt",
+    "category": "Fashion",
+    "expected_product_id": "fashion_sparse_004",
+    "reference_answer": "This classic white tee in size M offers a timeless silhouette that works for everyday wear. Its clean design makes it easy to pair with jeans or a blazer for a relaxed yet polished look."
+  },
+  {
+    "query_id": "q11",
+    "query": "sheer lip tint",
+    "category": "Beauty",
+    "expected_product_id": "beauty_sparse_001",
+    "reference_answer": "Mystic Glow Lip Tint is a lip tint designed to add color to the lips. Its formula delivers a sheer, buildable wash of hue. Perfect for anyone seeking a fresh, natural look."
+  },
+  {
+    "query_id": "q12",
+    "query": "volumizing mascara",
+    "category": "Beauty",
+    "expected_product_id": "beauty_sparse_010",
+    "reference_answer": "This classic black mascara delivers a volumizing effect that adds bold, full lashes for a striking look. Its smooth, buildable formula lets anyone achieve lifted, defined lashes that stay in place all day."
+  },
+  {
+    "query_id": "q13",
+    "query": "velvet touch facial cream",
+    "category": "Beauty",
+    "expected_product_id": "beauty_sparse_002",
+    "reference_answer": "Velvet Touch Facial Cream delivers a velvety, smooth feel that leaves skin comfortably moisturized. Its lightweight formula glides on effortlessly, making it a versatile addition to any beauty routine."
+  },
+  {
+    "query_id": "q14",
+    "query": "rose scented bath bomb",
+    "category": "Beauty",
+    "expected_product_id": "beauty_sparse_008",
+    "reference_answer": "Experience a soothing rose\u2011scented soak with this bath bomb, designed to release a fragrant bloom of rose petals as it fizzes away. Ideal for anyone seeking a relaxing, aromatic bath experience."
+  },
+  {
+    "query_id": "q15",
+    "query": "black nail polish",
+    "category": "Beauty",
+    "expected_product_id": "beauty_sparse_007",
+    "reference_answer": "This black nail polish delivers a deep, satin\u2011rich hue that glides on smoothly for an even, chip\u2011resistant finish. Its bold color adds instant edge to any look, making it a versatile choice for every style and occasion."
+  },
+  {
+    "query_id": "q16",
+    "query": "portable electric heater",
+    "category": "Home",
+    "expected_product_id": "home_sparse_009",
+    "reference_answer": "This portable electric heater delivers quick, reliable warmth wherever you need it, and its compact design lets you easily move it between rooms for flexible heating solutions."
+  },
+  {
+    "query_id": "q17",
+    "query": "cozy fleece throw blanket",
+    "category": "Home",
+    "expected_product_id": "home_sparse_001",
+    "reference_answer": "Wrap yourself in the comforting warmth of this cozy fleece throw blanket, perfect for adding a soft layer to your sofa or favorite reading chair. Its plush texture invites you to relax, making it an ideal companion for chilly evenings or casual lounging."
+  },
+  {
+    "query_id": "q18",
+    "query": "black entryway shoes",
+    "category": "Home",
+    "expected_product_id": "home_sparse_004",
+    "reference_answer": "These black shoes bring a sleek, understated look to your home entryway, perfect for pairing with everyday outfits. Their simple design fits seamlessly into any casual or dressy setting."
+  },
+  {
+    "query_id": "q19",
+    "query": "stainless steel kitchen faucet",
+    "category": "Home",
+    "expected_product_id": "home_sparse_006",
+    "reference_answer": "Upgrade your kitchen with this sleek stainless steel faucet, offering a clean, modern look that complements any countertop. Its durable stainless steel construction resists corrosion and adds a polished finish to your sink area."
+  },
+  {
+    "query_id": "q20",
+    "query": "wall mounted coat rack",
+    "category": "Home",
+    "expected_product_id": "home_sparse_007",
+    "reference_answer": "Add convenient storage to your entryway with this wall\u2011mounted coat rack, measuring 60\u202f\u00d7\u202f15\u202fcm for a compact yet functional footprint. Its simple design fits easily above a hallway console or near a front door, keeping coats and bags organized without taking up floor space."
+  }
 ]
