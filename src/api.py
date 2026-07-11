@@ -12,7 +12,7 @@ app = FastAPI()
 
 _client = get_client()
 _collection = get_or_create_collection(_client)
-_listings = load_listings("data/processed/enriched_listings.json")
+_listings = load_listings("data/processed_data/enriched_listings.json")
 _chunks = chunk_all_products(_listings)
 _bm25_idx = build_bm25_index(_chunks)
 
